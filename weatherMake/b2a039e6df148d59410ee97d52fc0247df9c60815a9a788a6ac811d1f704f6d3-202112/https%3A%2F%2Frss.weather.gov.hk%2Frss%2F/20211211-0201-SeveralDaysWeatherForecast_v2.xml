@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20211211000000</guid>
+      <pubDate>Fri, 10 Dec 2021 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 11/Dec/2021</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A dry northeast monsoon will continue to affect southern China in the next couple of days. The weather will be generally fine over the region. A replenishment of the northeast monsoon will reach the coast of Guangdong tomorrow night, and will bring cool weather to the region. With the monsoon moderating gradually midweek next week, temperatures over Guangdong will rise slightly. Another northeast monsoon will affect southern China next weekend. Besides, a tropical cyclone will form over the western North Pacific next week, and will move in the general direction towards the vicinity of the Philippines.<p/><p/>
+        Date/Month:
+        11/12 (Saturday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        60 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/12 (Sunday)<br/>
+        Wind:               
+        Northeast force 4, north force 5 at night.<br/>
+        Weather:        
+        Fine. Warm and dry during the day.<br/>
+        Temp range: 
+        19 -  
+        25 C<br/>
+        R.H. range:  
+        50 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/12 (Monday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly fine. Cool in the morning. Dry during the day.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        45 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/12 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Sunny periods. Cool in the morning. Dry during the day.<br/>
+        Temp range: 
+        17 -  
+        22 C<br/>
+        R.H. range:  
+        55 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/12 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly fine.<br/>
+        Temp range: 
+        18 -  
+        23 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/12 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly fine.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        17/12 (Friday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly fine. Warm and dry during the day.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        55 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        18/12 (Saturday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        18 -  
+        22 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        19/12 (Sunday)<br/>
+        Wind:               
+        North force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Becoming cool.<br/>
+        Temp range: 
+        16 -  
+        20 C<br/>
+        R.H. range:  
+        60 -  
+        85 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            10/12/2021 
+        at North Point            was 21 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            10/12/2021 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 23.1 degrees C
+                <br/>1.0 M below surface was 24.8 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

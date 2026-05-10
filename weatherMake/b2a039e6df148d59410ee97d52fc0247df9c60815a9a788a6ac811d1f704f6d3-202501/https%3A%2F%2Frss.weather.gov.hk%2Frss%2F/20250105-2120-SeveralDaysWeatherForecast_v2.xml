@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20250105195000</guid>
+      <pubDate>Sun, 05 Jan 2025 11:50:00 GMT</pubDate>
+      <title>Bulletin updated at 19:50 HKT 05/Jan/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of a dry replenishment of the northeast monsoon, the weather will be generally fine over Guangdong tomorrow. It will be cool in the morning and at night. The temperature difference between day and night over inland areas will be rather large. An easterly airstream will also affect the coast of Guangdong gradually tomorrow. It will be windy and slightly cloudier over the region in the following couple of days. A surge of the winter monsoon is expected to reach the coast of southern China on Thursday. It will become cold over the region.<p/><p/>
+        Date/Month:
+        06/01 (Monday)<br/>
+        Wind:               
+        North force 2 to 3, east force 4 later.<br/>
+        Weather:        
+        Fine. Cool in the morning. Dry during the day.<br/>
+        Temp range: 
+        15 -  
+        21 C<br/>
+        R.H. range:  
+        40 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/01 (Tuesday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Mainly fine. Dry during the day. Becoming cloudy with one or two light rain patches at night.<br/>
+        Temp range: 
+        16 -  
+        20 C<br/>
+        R.H. range:  
+        50 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/01 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Sunny periods. One or two light rain patches at  first.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/01 (Thursday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods. Cool in the morning and at night. Dry during the day.<br/>
+        Temp range: 
+        15 -  
+        18 C<br/>
+        R.H. range:  
+        45 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/01 (Friday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Becoming cold. Dry with sunny periods.<br/>
+        Temp range: 
+        12 -  
+        16 C<br/>
+        R.H. range:  
+        40 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/01 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly fine. Cold in the morning. Very dry during the day.<br/>
+        Temp range: 
+        12 -  
+        17 C<br/>
+        R.H. range:  
+        35 -  
+        65 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/01 (Sunday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly fine. Rather cool in the morning and at night. Very dry during the day.<br/>
+        Temp range: 
+        13 -  
+        18 C<br/>
+        R.H. range:  
+        35 -  
+        65 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/01 (Monday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Dry with sunny periods. Cool in the morning and at night.<br/>
+        Temp range: 
+        14 -  
+        19 C<br/>
+        R.H. range:  
+        40 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/01 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Sunny periods. Cool in the morning. Dry during the day.<br/>
+        Temp range: 
+        15 -  
+        20 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            05/01/2025 
+        at North Point            was 19 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            05/01/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 21.1 degrees C
+                <br/>1.0 M below surface was 22.8 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

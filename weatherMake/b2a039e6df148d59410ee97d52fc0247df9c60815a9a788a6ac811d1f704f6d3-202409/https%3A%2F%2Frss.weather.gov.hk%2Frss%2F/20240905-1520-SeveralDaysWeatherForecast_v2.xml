@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240905113000</guid>
+      <pubDate>Thu, 05 Sep 2024 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 05/Sep/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Tropical Cyclone Yagi will move across the northern part of the South China Sea today and tomorrow, moving in the general direction of the vicinity of Leizhou Peninsula to Hainan Island. Under its influence, it will be windy with heavy squally showers and thunderstorms over the coast of Guangdong tomorrow. Seas will be very rough with swells. With Yagi departing and weakening, showers will ease off gradually over the coast of Guangdong early next week. Meanwhile, a broad area of low pressure is expected to affect the seas east of Taiwan. A broad trough of low pressure will bring showers to the central and northern parts of the South China Sea midweek next week.<p/><p/>
+        Date/Month:
+        06/09 (Friday)<br/>
+        Wind:               
+        East to southeast force 7 to 8, force 6 later.<br/>
+        Weather:        
+        Cloudy with squally showers and thunderstorms. Showers will be heavy at times. Seas will be very rough with swells.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        07/09 (Saturday)<br/>
+        Wind:               
+        East to southeast force 4 to 5, force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with squally showers and thunderstorms. Showers will be heavy at times at first. Seas will be rough with swells.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        08/09 (Sunday)<br/>
+        Wind:               
+        East to southeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and a few thunderstorms. There will be swells.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        09/09 (Monday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Isolated thunderstorms at first. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        10/09 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 3.<br/>
+        Weather:        
+        Sunny periods and a few showers. Isolated thunderstorms later.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        11/09 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        12/09 (Thursday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        13/09 (Friday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and a few showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        14/09 (Saturday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and a few showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            05/09/2024 
+        at North Point            was 28 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            05/09/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 31.0 degrees C
+                <br/>1.0 M below surface was 30.7 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

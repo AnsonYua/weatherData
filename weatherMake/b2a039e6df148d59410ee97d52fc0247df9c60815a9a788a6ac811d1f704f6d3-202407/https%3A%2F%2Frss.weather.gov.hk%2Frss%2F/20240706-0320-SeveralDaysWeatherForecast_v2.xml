@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240706015000</guid>
+      <pubDate>Fri, 05 Jul 2024 17:50:00 GMT</pubDate>
+      <title>Bulletin updated at 01:50 HKT 06/Jul/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The subtropical ridge will weaken slightly over the weekend to early next week. There will be a few showers but still very hot over the coast of southern China. Under the influence of an upper-air disturbance, there will be showers and thunderstorms over the coast of Guangdong and the northern part of the South China Sea next Tuesday. A southwesterly airstream will affect southern China gradually in the middle and latter parts of next week, but it will remain very hot over inland areas.<p/><p/>
+        Date/Month:
+        06/07 (Saturday)<br/>
+        Wind:               
+        Southeast force 2 to 3.<br/>
+        Weather:        
+        Becoming cloudy with a few showers. Very hot with sunny periods during the day. Isolated thunderstorms later.<br/>
+        Temp range: 
+        29 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/07 (Sunday)<br/>
+        Wind:               
+        Southeast force 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Isolated thunderstorms at first. Very hot with sunny periods during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        08/07 (Monday)<br/>
+        Wind:               
+        South force 3.<br/>
+        Weather:        
+        Sunny periods and a few showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/07 (Tuesday)<br/>
+        Wind:               
+        South force 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Very hot with sunny periods during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        10/07 (Wednesday)<br/>
+        Wind:               
+        South to southwest force 3.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        29 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/07 (Thursday)<br/>
+        Wind:               
+        Southwest force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and a few showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/07 (Friday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Sunny intervals during the day.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        13/07 (Saturday)<br/>
+        Wind:               
+        South to southwest force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Very hot with sunny intervals during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        14/07 (Sunday)<br/>
+        Wind:               
+        South to southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Very hot with sunny periods during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            05/07/2024 
+        at North Point            was 28 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            05/07/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.2 degrees C
+                <br/>1.0 M below surface was 29.5 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

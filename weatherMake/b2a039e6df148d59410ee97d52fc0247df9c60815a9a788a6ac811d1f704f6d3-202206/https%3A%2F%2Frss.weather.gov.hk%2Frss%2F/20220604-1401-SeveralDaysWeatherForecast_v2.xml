@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220604113000</guid>
+      <pubDate>Sat, 04 Jun 2022 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 04/Jun/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The southwest monsoon will continue to bring showers to the coast of southern China and the northern part of the South China Sea in the next couple of days. Meanwhile, a trough of low pressure is expected to develop over the northern part of southern China and it will linger over the coastal areas in the middle and latter parts of next week, bringing heavy showers and squally thunderstorms to the region.<p/><p/>
+        Date/Month:
+        05/06 (Sunday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Hot with sunny periods and one or two showers. Isolated thunderstorms in the morning.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        06/06 (Monday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Cloudy with showers and squally thunderstorms. Showers will be heavy at times.<br/>
+        Temp range: 
+        27 -  
+        30 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        07/06 (Tuesday)<br/>
+        Wind:               
+        South to southwest force 4, occasionally force 5.<br/>
+        Weather:        
+        Cloudy to overcast with heavy showers and squally thunderstorms.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        08/06 (Wednesday)<br/>
+        Wind:               
+        South to southeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Cloudy to overcast with showers and squally thunderstorms. Showers will be heavy at times.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        09/06 (Thursday)<br/>
+        Wind:               
+        South to southeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Cloudy with showers and a few thunderstorms.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        10/06 (Friday)<br/>
+        Wind:               
+        South to southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers.<br/>
+        Temp range: 
+        27 -  
+        30 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        11/06 (Saturday)<br/>
+        Wind:               
+        South to southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        30 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        12/06 (Sunday)<br/>
+        Wind:               
+        South to southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        13/06 (Monday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            04/06/2022 
+        at North Point            was 26 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            04/06/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 28.6 degrees C
+                <br/>1.0 M below surface was 27.7 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

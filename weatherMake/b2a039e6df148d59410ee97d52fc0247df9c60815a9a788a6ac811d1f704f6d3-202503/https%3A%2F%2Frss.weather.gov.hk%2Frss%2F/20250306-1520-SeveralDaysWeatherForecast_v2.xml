@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20250306131500</guid>
+      <pubDate>Thu, 06 Mar 2025 05:15:00 GMT</pubDate>
+      <title>Bulletin updated at 13:15 HKT 06/Mar/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon will continue to affect Guangdong in the next couple of days. The weather will be cold over the region. Meanwhile, a broad band of clouds will bring a few rain patches to the coastal areas. With the monsoon being replaced by an easterly airstream and the band of clouds covering Guangdong gradually thinning out early next week, temperatures will rise progressively and it will be brighter over the region. A warm maritime airstream is expected to bring humid and foggy weather to the coastal areas midweek next week. The northeast monsoon is expected to affect southern China in the latter part of next week. Temperatures will fall over the region.<p/><p/>
+        Date/Month:
+        07/03 (Friday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 on high ground at first.<br/>
+        Weather:        
+        Cloudy with a few rain patches. Cold with more frequent rain in the morning.<br/>
+        Temp range: 
+        12 -  
+        15 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        08/03 (Saturday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy. Rather cool with one or two light rain patches in the morning. Sunny periods in the afternoon.<br/>
+        Temp range: 
+        13 -  
+        18 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/03 (Sunday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/03 (Monday)<br/>
+        Wind:               
+        East force 4, occasionally force 5 at first.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        18 -  
+        23 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/03 (Tuesday)<br/>
+        Wind:               
+        East force 3.<br/>
+        Weather:        
+        Sunny periods. Warm during the day. One or two light rain patches and coastal mist at night.<br/>
+        Temp range: 
+        20 -  
+        25 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/03 (Wednesday)<br/>
+        Wind:               
+        Southeast force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches and coastal fog in the morning and at night. Warm with sunny intervals during the day.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        80 -  
+        100 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/03 (Thursday)<br/>
+        Wind:               
+        East to southeast force 3.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Sunny intervals during the day. Coastal fog in the morning and at night.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        80 -  
+        100 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/03 (Friday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Visibility rather low at first.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        80 -  
+        100 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        15/03 (Saturday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with a few rain patches.<br/>
+        Temp range: 
+        17 -  
+        23 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            06/03/2025 
+        at North Point            was 17 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            06/03/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 22.8 degrees C
+                <br/>1.0 M below surface was 22.9 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

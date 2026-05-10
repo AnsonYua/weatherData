@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230806000000</guid>
+      <pubDate>Sat, 05 Aug 2023 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 06/Aug/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A southwesterly airstream will bring showers to the coast of Guangdong today and tomorrow. Meanwhile, an area of low pressure will bring unsettled weather to the coast of Guangxi. With the anticyclone aloft over the northern part of the South China Sea strengthening, the weather will be very hot over the coast of Guangdong midweek this week. An upper-air disturbance is expected to bring thundery showers to southern China in the latter part of this week. Besides, Tropical Cyclone Khanun will move across the Ryukyu Islands today, and gradually edge closer to the vicinity of Kyushu and the western part of Honshu of Japan afterwards.<p/><p/>
+        Date/Month:
+        06/08 (Sunday)<br/>
+        Wind:               
+        Southwest force 4, occasionally force 5 offshore.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Very hot with sunny periods during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        07/08 (Monday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Thunderstorms in the morning. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        08/08 (Tuesday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Very hot with sunny periods and a few showers. Isolated thunderstorms in the morning.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        09/08 (Wednesday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Very hot with sunny periods and one or two showers.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/08 (Thursday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Very hot with sunny periods and a few showers. Isolated thunderstorms later.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        11/08 (Friday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Sunny intervals. A few showers and thunderstorms.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        12/08 (Saturday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and thunderstorms.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        13/08 (Sunday)<br/>
+        Wind:               
+        Southwest force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        14/08 (Monday)<br/>
+        Wind:               
+        South to southwest force 4.<br/>
+        Weather:        
+        Sunny periods and a few showers.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            05/08/2023 
+        at North Point            was 28 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            05/08/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.9 degrees C
+                <br/>1.0 M below surface was 30.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

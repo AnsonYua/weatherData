@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20250825113000</guid>
+      <pubDate>Mon, 25 Aug 2025 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 25/Aug/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of a ridge of high pressure over southeastern China, it will be brighter and hot over Guangdong in the next couple of days. The broad area of low pressure now to the east of the Philippines will enter the central part of the South China Sea midweek this week. Whether it will develop into a tropical cyclone remains uncertain. The low pressure system will then have a higher chance to move towards Hainan Island and its adjacent waters. Under the combined effect of it and the ridge of high pressure, it will be windy with heavy showers and squally thunderstorms over the northern part of the South China Sea and the coast of southern China in the latter part of this week. There will be swells. With the low pressure system departing, showers will ease off over Guangdong early next week. Besides, Tropical Cyclone Kajiki will move towards the northern part of Vietnam today. It will then dissipate gradually over the inland areas of Indo-China.<p/><p/>
+        Date/Month:
+        26/08 (Tuesday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        27/08 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals and a few showers. Isolated thunderstorms later.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        28/08 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4, force 5 later, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and squally thunderstorms. Showers will be heavier in some areas later.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        29/08 (Friday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and squally thunderstorms. Showers will be heavier in some areas.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        30/08 (Saturday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. More showers with thunderstorms at first.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        31/08 (Sunday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        01/09 (Monday)<br/>
+        Wind:               
+        East to southeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        02/09 (Tuesday)<br/>
+        Wind:               
+        Southeast force 3.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        03/09 (Wednesday)<br/>
+        Wind:               
+        Southeast force 3.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            25/08/2025 
+        at North Point            was 26 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            25/08/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 29.6 degrees C
+                <br/>1.0 M below surface was 29.5 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230428120000</guid>
+      <pubDate>Fri, 28 Apr 2023 04:00:00 GMT</pubDate>
+      <title>Bulletin updated at 12:00 HKT 28/Apr/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A trough of low pressure will bring unsettled weather to southern China tomorrow. Under the influence of the relatively dry northeast monsoon, it will be brighter in the following couple of days. An anticyclone aloft will affect Guangdong midweek next week. The weather will improve and it will be hot during the day over the region. Another trough of low pressure will bring a few showers to the coastal areas in the latter part of next week.<p/><p/>
+        Date/Month:
+        29/04 (Saturday)<br/>
+        Wind:               
+        East to southeast force 2 to 3, north force 4 later.<br/>
+        Weather:        
+        Sunny intervals and relatively low visibility in some areas at first. A few showers and isolated thunderstorms later.<br/>
+        Temp range: 
+        22 -  
+        27 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        30/04 (Sunday)<br/>
+        Wind:               
+        North force 3 to 4, east force 4 later.<br/>
+        Weather:        
+        Mainly cloudy with bright periods. One or two rain patches later.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/05 (Monday)<br/>
+        Wind:               
+        East force 4, force 5 offshore.<br/>
+        Weather:        
+        Mainly cloudy with bright periods.<br/>
+        Temp range: 
+        22 -  
+        25 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/05 (Tuesday)<br/>
+        Wind:               
+        East to southeast force 4, force 5 offshore at first.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        23 -  
+        26 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        03/05 (Wednesday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Sunny periods. Coastal mist at night.<br/>
+        Temp range: 
+        24 -  
+        28 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/05 (Thursday)<br/>
+        Wind:               
+        South force 3.<br/>
+        Weather:        
+        Sunny periods. Coastal mist in the morning and at night.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/05 (Friday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/05 (Saturday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        25 -  
+        28 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        07/05 (Sunday)<br/>
+        Wind:               
+        South to southeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and thunderstorms.<br/>
+        Temp range: 
+        24 -  
+        27 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            28/04/2023 
+        at North Point            was 23 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            28/04/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 24.8 degrees C
+                <br/>1.0 M below surface was 25.2 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

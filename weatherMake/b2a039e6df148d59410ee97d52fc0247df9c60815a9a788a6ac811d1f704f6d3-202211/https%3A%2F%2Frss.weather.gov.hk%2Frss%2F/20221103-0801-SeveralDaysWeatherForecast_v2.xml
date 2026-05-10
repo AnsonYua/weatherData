@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20221103075000</guid>
+      <pubDate>Wed, 02 Nov 2022 23:50:00 GMT</pubDate>
+      <title>Bulletin updated at 07:50 HKT 03/Nov/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon will persist over southern China this week. Tropical Cyclone Nalgae will move across the western part of Guangdong today and weaken gradually. Under the influence of its outer rainbands, there will still be a few showers today. With Nalgae weakening and dissipating, the weather is expected to improve and showers will ease off gradually over the coastal areas of Guangdong in the next couple of days.<p/><p/>
+        Date/Month:
+        03/11 (Thursday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Cloudy with a few showers. There will be swells.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        04/11 (Friday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        22 -  
+        26 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/11 (Saturday)<br/>
+        Wind:               
+        Northeast force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/11 (Sunday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        21 -  
+        26 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/11 (Monday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        21 -  
+        26 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/11 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        22 -  
+        26 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/11 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly fine.<br/>
+        Temp range: 
+        22 -  
+        26 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/11 (Thursday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly fine.<br/>
+        Temp range: 
+        22 -  
+        27 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/11 (Friday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Mainly fine.<br/>
+        Temp range: 
+        22 -  
+        27 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            03/11/2022 
+        at North Point            was 23 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            03/11/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 25.6 degrees C
+                <br/>1.0 M below surface was 28.1 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20211217013000</guid>
+      <pubDate>Thu, 16 Dec 2021 17:30:00 GMT</pubDate>
+      <title>Bulletin updated at 01:30 HKT 17/Dec/2021</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>An intense northeast monsoon will bring cool weather to southern China in the next few days. Besides, Tropical Cyclone Rai will move across the Philippines and enter the southern part of the South China Sea today and tomorrow. It will turn to a northerly track and weaken gradually on Sunday, but its subsequent movement and intensity remain uncertain. The cloud bands associated with Rai will bring rainy weather to the northern part of the South China Sea early to midweek next week.<p/><p/>
+        Date/Month:
+        17/12 (Friday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 offshore later.<br/>
+        Weather:        
+        One or two light rain patches at first. Becoming appreciably cooler later. Sunny periods during the day.<br/>
+        Temp range: 
+        17 -  
+        23 C<br/>
+        R.H. range:  
+        55 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        18/12 (Saturday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly fine and dry. Cool in the morning and at night.<br/>
+        Temp range: 
+        15 -  
+        20 C<br/>
+        R.H. range:  
+        45 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        19/12 (Sunday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Fine at first. Becoming cloudy later. It will be dry. Cool in the morning.<br/>
+        Temp range: 
+        14 -  
+        19 C<br/>
+        R.H. range:  
+        45 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        20/12 (Monday)<br/>
+        Wind:               
+        North to northeast force 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Cloudy. Cool in the morning. A few rain patches later.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        50 -  
+        85 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        21/12 (Tuesday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Cloudy with some rain. Cool in the morning and at night.<br/>
+        Temp range: 
+        16 -  
+        18 C<br/>
+        R.H. range:  
+        85 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        22/12 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Cloudy with a few rain patches. Cool in the morning.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        23/12 (Thursday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        18 -  
+        21 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        24/12 (Friday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few rain patches.<br/>
+        Temp range: 
+        19 -  
+        22 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        25/12 (Saturday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        18 -  
+        21 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            16/12/2021 
+        at North Point            was 22 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            16/12/2021 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 23.7 degrees C
+                <br/>1.0 M below surface was 24.9 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

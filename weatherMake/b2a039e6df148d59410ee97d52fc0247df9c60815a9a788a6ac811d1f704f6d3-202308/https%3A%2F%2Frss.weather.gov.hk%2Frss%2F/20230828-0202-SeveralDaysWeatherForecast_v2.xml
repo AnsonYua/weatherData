@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230828000000</guid>
+      <pubDate>Sun, 27 Aug 2023 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 28/Aug/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Winds will be weak over Guangdong today and high temperatures will also trigger showers and thunderstorms. Meanwhile, Tropical Cyclone Saola will linger over the seas east of Luzon today and tomorrow. A weak northeast monsoon will reach southern China on Tuesday and there will be more showers over the region. Saola is expected to move in the general direction of the vicinity of Taiwan, and the coast of Fujian and eastern Guangdong in the middle and latter parts of this week, but its movement remains uncertain. Under the combined effect of its outer subsiding air and the northeast monsoon, the weather will be very hot and dry over southern China. The temperature difference between day and night will be relatively large.<p/><p/>
+        Date/Month:
+        28/08 (Monday)<br/>
+        Wind:               
+        South force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        29/08 (Tuesday)<br/>
+        Wind:               
+        Light winds force 2, becoming northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and thunderstorms. Sunny intervals during the day.<br/>
+        Temp range: 
+        26 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        30/08 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and isolated showers. Very hot and dry during the day.<br/>
+        Temp range: 
+        27 -  
+        33 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        31/08 (Thursday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Mainly fine. Very hot and dry during the day.<br/>
+        Temp range: 
+        27 -  
+        34 C<br/>
+        R.H. range:  
+        55 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/09 (Friday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        27 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/09 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        27 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        03/09 (Sunday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/09 (Monday)<br/>
+        Wind:               
+        Northeast force 3.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/09 (Tuesday)<br/>
+        Wind:               
+        Northeast force 3.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            27/08/2023 
+        at North Point            was 27 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            27/08/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.6 degrees C
+                <br/>1.0 M below surface was 30.5 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

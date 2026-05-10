@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="ndayc.xsl" type="text/xsl" ?><rss version="2.0">
+   <channel>
+      <title>九天天氣預報</title>
+      <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+      <description>九天天氣預報</description>
+      <language>zh-tw</language>
+      <webMaster>mailbox@hko.gov.hk (香港天文台)</webMaster>
+      <copyright>本檔案的內容，包括但不限於所有文本、平面圖像、圖畫、圖片、照片以及數據或其他資料的匯編，均受版權保障。香港特別行政區政府是本檔案內所有版權作品的擁有人。
+       </copyright>
+      <image>
+         <url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+         <title>九天天氣預報</title>
+         <link>http://www.weather.gov.hk/</link>
+      </image>
+      <item>
+         <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240522000000</guid>
+         <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
+         <title>香港天文台於2024年05月22日00時00分發出之天氣報告</title>
+         <category>F</category>
+         <author>hkowm@hko.gov.hk (香港天文台)</author>
+         <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+         <description><![CDATA[ 
+            
+    天 氣 概 況 ：<br/>一 道 低 壓 槽 會 在 未 來 一 兩 日 在 南 海 北 部 及 廣 東 沿 岸 地 區 徘 徊 ， 該 區 有 驟 雨 及 雷 暴 。 而 高 空 擾 動 會 在 接 近 週 末 為 華 南 沿 岸 帶 來 不 穩 定 天 氣 。 隨 著 高 空 擾 動 遠 離 ， 廣 東 沿 岸 週 末 期 間 仍 有 幾 陣 驟 雨 。 而 另 一 道 低 壓 槽 會 在 下 週 初 影 響 華 南 。 <p/><p/> 五 月 二 十 二 日 ( 星 期 三 ) <br/>
+    風    ：    
+    東 至 東 南 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    多 雲 ， 間 中 有 驟 雨 及 幾 陣 雷 暴 ， 部 分 地 區 雨 勢 較 大 。  <br/>
+    氣 溫 ：
+    25 至 
+    28 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    80 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中高 。<br/>
+    <p/><p/> 五 月 二 十 三 日 ( 星 期 四 ) <br/>
+    風    ：    
+    東 南 風 3 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 幾 陣 驟 雨 。 稍 後 驟 雨 較 多 。  <br/>
+    氣 溫 ：
+    25 至 
+    29 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中 。<br/>
+    <p/><p/> 五 月 二 十 四 日 ( 星 期 五 ) <br/>
+    風    ：    
+    南 至 東 南 風 3 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 間 中 有 驟 雨 及 雷 暴 。 雨 勢 有 時 較 大 。  <br/>
+    氣 溫 ：
+    24 至 
+    28 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    80 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 高 。<br/>
+    <p/><p/> 五 月 二 十 五 日 ( 星 期 六 ) <br/>
+    風    ：    
+    南 風 2 至 3 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 幾 陣 驟 雨 。 日 間 短 暫 時 間 有 陽 光 。  <br/>
+    氣 溫 ：
+    25 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    70 至 
+    90 。<br/>
+    顯 著 降 雨 概 率 ： 中 。<br/>
+    <p/><p/> 五 月 二 十 六 日 ( 星 期 日 ) <br/>
+    風    ：    
+    南 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 幾 陣 驟 雨 。 日 間 短 暫 時 間 有 陽 光 。  <br/>
+    氣 溫 ：
+    26 至 
+    31 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    70 至 
+    90 。<br/>
+    顯 著 降 雨 概 率 ： 中低 。<br/>
+    <p/><p/> 五 月 二 十 七 日 ( 星 期 一 ) <br/>
+    風    ：    
+    南 至 西 南 風 4 至 5 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 幾 陣 驟 雨 及 雷 暴 。  <br/>
+    氣 溫 ：
+    25 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中 。<br/>
+    <p/><p/> 五 月 二 十 八 日 ( 星 期 二 ) <br/>
+    風    ：    
+    南 至 東 南 風 4 級 。  <br/>
+    天 氣 ： 
+    多 雲 ， 有 驟 雨 及 幾 陣 狂 風 雷 暴 。  <br/>
+    氣 溫 ：
+    25 至 
+    29 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 高 。<br/>
+    <p/><p/> 五 月 二 十 九 日 ( 星 期 三 ) <br/>
+    風    ：    
+    東 至 東 南 風 4 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 幾 陣 驟 雨 。  <br/>
+    氣 溫 ：
+    24 至 
+    28 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中 。<br/>
+    <p/><p/> 五 月 三 十 日 ( 星 期 四 ) <br/>
+    風    ：    
+    東 南 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 幾 陣 驟 雨 。  <br/>
+    氣 溫 ：
+    24 至 
+    28 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中 。<br/>
+    <p/>
+    五  月 二 十 一  日 
+    
+        下 午 二 時      北 角   
+    錄 得 之 
+    海 水 
+      溫 度 為 25 度 。<br/> 五  月 二 十 一  日 
+    
+        上 午 七 時      天 文 台   
+    錄 得 之 
+    土 壤 
+      溫 度 為 ：<br/>0.5 米 
+      26.5 度
+      ；<br/>1.0 米 
+      26.9 度
+      。 
+            ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20250919205000</guid>
+      <pubDate>Fri, 19 Sep 2025 12:50:00 GMT</pubDate>
+      <title>Bulletin updated at 20:50 HKT 19/Sep/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Tropical Cyclone Mitag will move across the vicinity of the northern part of the Pearl River Estuary and weaken gradually tomorrow. It will be windy at first over the region. There will be squally showers and thunderstorms. With Mitag weakening and departing, showers will ease off gradually early next week. The weather will improve briefly and will be very hot. Tropical Cyclone Ragasa will to move towards the vicinity of Luzon Strait and intensify significantly in the next couple of days, and enter the northern part of the South China Sea early next week. It will then edge closer to the coast of Guangdong. Under the influence of its broad circulation, the weather over the region will deteriorate with winds strengthening significantly midweek next week. There will be heavy squally showers, thunderstorms and significant storm surge. Seas will be very rough with swells.<p/><p/>
+        Date/Month:
+        20/09 (Saturday)<br/>
+        Wind:               
+        West to southwest force 5 to 6, up to force 7 offshore and on high ground. Becoming south force 4 later.<br/>
+        Weather:        
+        Mainly cloudy with occasional squally showers and thunderstorms. Showers will be heavier in some areas. Seas will be rough with swells.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        21/09 (Sunday)<br/>
+        Wind:               
+        East to southeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and squally thunderstorms. Showers will be heavier at times at first. There will be swells.<br/>
+        Temp range: 
+        26 -  
+        31 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        22/09 (Monday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        One or two showers at first. Becoming fine and very hot during the day.<br/>
+        Temp range: 
+        27 -  
+        34 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        23/09 (Tuesday)<br/>
+        Wind:               
+        North force 4 to 5, force 6 offshore and up to force 7 on high ground later.<br/>
+        Weather:        
+        Sunny periods. Very hot during the day. Squally showers and thunderstorms later. There will be swells.<br/>
+        Temp range: 
+        27 -  
+        34 C<br/>
+        R.H. range:  
+        60 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        24/09 (Wednesday)<br/>
+        Wind:               
+        Northeast force 7 to 8, up to force 10 offshore and on high ground. Becoming east to southeast later.<br/>
+        Weather:        
+        Cloudy to overcast with heavy squally showers and thunderstorms. Seas will be very rough with swells.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        25/09 (Thursday)<br/>
+        Wind:               
+        East to southeast force 5 to 6, force 7 offshore and on high ground at first.<br/>
+        Weather:        
+        Cloudy with squally showers and thunderstorms. Showers will be heavy at first. Seas will be very rough with swells.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        26/09 (Friday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and a few thunderstorms.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        27/09 (Saturday)<br/>
+        Wind:               
+        East force 4, occasionally force 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        28/09 (Sunday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and a few showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            19/09/2025 
+        at North Point            was 28 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            19/09/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.6 degrees C
+                <br/>1.0 M below surface was 30.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

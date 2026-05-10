@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240207000000</guid>
+      <pubDate>Tue, 06 Feb 2024 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 07/Feb/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A replenishment of the northeast monsoon will reach the coastal areas of southern China on Wednesday night. Meanwhile, under the influence of a broad band of rain and clouds, the weather will be cold over the region in the next couple of days. A dry continental airstream will bring mainly fine weather to the coast of southern China during the Lunar New Year holidays. Daytime temperatures over the region will rise. The temperature difference between day and night will be relatively large.<p/><p/>
+        Date/Month:
+        07/02 (Wednesday)<br/>
+        Wind:               
+        East force 4 to 5, north force 4 to 5 at night.<br/>
+        Weather:        
+        Cloudy with a few rain patches. Coastal mist in the morning and at night. Temperatures will fall appreciably at night.<br/>
+        Temp range: 
+        15 -  
+        20 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        08/02 (Thursday)<br/>
+        Wind:               
+        North to northeast force 4, force 5 at first.<br/>
+        Weather:        
+        Becoming cold appreciably. Cloudy with a few rain patches.<br/>
+        Temp range: 
+        12 -  
+        15 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        09/02 (Friday)<br/>
+        Wind:               
+        North to northeast force 3 to 4.<br/>
+        Weather:        
+        Cold in the morning and at night. Mainly cloudy. One or two rain patches at first.<br/>
+        Temp range: 
+        11 -  
+        15 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/02 (Saturday)<br/>
+        Wind:               
+        North to northeast force 3 to 4.<br/>
+        Weather:        
+        Cold in the morning. Sunny periods.<br/>
+        Temp range: 
+        12 -  
+        17 C<br/>
+        R.H. range:  
+        60 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/02 (Sunday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Rather cool in the morning. Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        13 -  
+        20 C<br/>
+        R.H. range:  
+        45 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/02 (Monday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods. Dry during the day.<br/>
+        Temp range: 
+        14 -  
+        19 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/02 (Tuesday)<br/>
+        Wind:               
+        East force 4, occasionally force 5 at first.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        15 -  
+        20 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/02 (Wednesday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/02 (Thursday)<br/>
+        Wind:               
+        East force 3.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        70 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            06/02/2024 
+        at North Point            was 20 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            06/02/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 22.2 degrees C
+                <br/>1.0 M below surface was 22.9 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

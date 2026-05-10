@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20241031013500</guid>
+      <pubDate>Wed, 30 Oct 2024 17:35:00 GMT</pubDate>
+      <title>Bulletin updated at 01:35 HKT 31/Oct/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of a dry northeast monsoon, it will be generally fine over southern China today and tomorrow. The temperature difference between day and night will be relatively large. A replenishment of the monsoon is expected to affect the coast of Guangdong in the latter part of this week. It will be windy over the region. An upper-air disturbance will bring a few showers to the northern part of the South China Sea and the coast of Guangdong early next week. Another replenishment of the monsoon is expected to bring slightly cooler weather to southern China in the middle and latter parts of next week. Besides, Tropical Cyclone Kong-rey will move across the vicinity of the central and southern parts of Taiwan today. It will then turn northwards, edge closer to northern Fujian, and weaken gradually.<p/><p/>
+        Date/Month:
+        31/10 (Thursday)<br/>
+        Wind:               
+        North force 4, occasionally force 5.<br/>
+        Weather:        
+        Fine and dry.<br/>
+        Temp range: 
+        23 -  
+        31 C<br/>
+        R.H. range:  
+        40 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/11 (Friday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 offshore and on high ground later.<br/>
+        Weather:        
+        Mainly fine and dry.<br/>
+        Temp range: 
+        24 -  
+        30 C<br/>
+        R.H. range:  
+        40 -  
+        65 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/11 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Dry with sunny periods.<br/>
+        Temp range: 
+        23 -  
+        29 C<br/>
+        R.H. range:  
+        45 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        03/11 (Sunday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy. Sunny intervals during the day. One or two showers later.<br/>
+        Temp range: 
+        24 -  
+        28 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/11 (Monday)<br/>
+        Wind:               
+        Northeast force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with one or two showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        24 -  
+        28 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/11 (Tuesday)<br/>
+        Wind:               
+        Northeast force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Sunny intervals. One or two showers at first.<br/>
+        Temp range: 
+        22 -  
+        27 C<br/>
+        R.H. range:  
+        55 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/11 (Wednesday)<br/>
+        Wind:               
+        Northeast force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        20 -  
+        25 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/11 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        20 -  
+        25 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/11 (Friday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        21 -  
+        26 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            30/10/2024 
+        at North Point            was 27 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            30/10/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 27.9 degrees C
+                <br/>1.0 M below surface was 29.0 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

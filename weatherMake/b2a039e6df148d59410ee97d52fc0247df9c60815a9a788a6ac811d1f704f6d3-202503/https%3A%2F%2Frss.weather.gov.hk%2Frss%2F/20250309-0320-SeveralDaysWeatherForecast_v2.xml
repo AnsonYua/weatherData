@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20250309000000</guid>
+      <pubDate>Sat, 08 Mar 2025 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 09/Mar/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>An easterly airstream will affect the coast of Guangdong in the next couple of days. Temperatures will rise gradually over the region. The weather will be bright during the day. A maritime airstream will bring warm and humid weather to the coastal areas midweek this week. A surge of the northeast monsoon is expected to affect southern China over the weekend. Temperatures will fall again and there will be a few showers over the region.<p/><p/>
+        Date/Month:
+        09/03 (Sunday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/03 (Monday)<br/>
+        Wind:               
+        East force 3 to 4, force 5 offshore at first.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        18 -  
+        23 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/03 (Tuesday)<br/>
+        Wind:               
+        East force 3.<br/>
+        Weather:        
+        Sunny intervals. Warm during the day.<br/>
+        Temp range: 
+        20 -  
+        25 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/03 (Wednesday)<br/>
+        Wind:               
+        East force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches and coastal fog at night. Warm with sunny intervals during the day.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        80 -  
+        100 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/03 (Thursday)<br/>
+        Wind:               
+        Light winds force 2, east force 4 later.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Coastal fog in the morning and at night. Warm with sunny intervals during the day.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        80 -  
+        100 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/03 (Friday)<br/>
+        Wind:               
+        East force 4, occasionally force 5 at first.<br/>
+        Weather:        
+        Mainly cloudy with a few rain patches. Visibility rather low at first.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/03 (Saturday)<br/>
+        Wind:               
+        East force 3 to 4, north force 4 to 5 later.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        18 -  
+        22 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        16/03 (Sunday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy. One or two rain patches at first. Cool in the morning and at night. Sunny intervals during the day.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        17/03 (Monday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods. Cool in the morning and at night. Dry during the day.<br/>
+        Temp range: 
+        15 -  
+        20 C<br/>
+        R.H. range:  
+        50 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            08/03/2025 
+        at North Point            was 17 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            08/03/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 21.0 degrees C
+                <br/>1.0 M below surface was 22.8 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

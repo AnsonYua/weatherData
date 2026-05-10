@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="ndayc.xsl" type="text/xsl" ?><rss version="2.0">
+   <channel>
+      <title>九天天氣預報</title>
+      <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+      <description>九天天氣預報</description>
+      <language>zh-tw</language>
+      <webMaster>mailbox@hko.gov.hk</webMaster>
+      <copyright>本檔案的內容，包括但不限於所有文本、平面圖像、圖畫、圖片、照片以及數據或其他資料的匯編，均受版權保障。香港特別行政區政府是本檔案內所有版權作品的擁有人。
+       </copyright>
+      <image>
+         <url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+         <title>九天天氣預報</title>
+         <link>http://www.weather.gov.hk/</link>
+      </image>
+      <item>
+         <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220729163000</guid>
+         <pubDate>Fri, 29 Jul 2022 08:30:00 GMT</pubDate>
+         <title>香港天文台於2022年07月29日16時30分發出之天氣報告</title>
+         <category>F</category>
+         <author>香港天文台</author>
+         <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+         <description><![CDATA[ 
+            
+    天 氣 概 況 ：<br/>高 空 反 氣 旋 會 在 週 末 至 下 週 初 為 華 南 帶 來 持 續 酷 熱 的 天 氣 ， 而 高 溫 觸 發 的 驟 雨 會 影 響 該 區 。 隨 著 高 空 反 氣 旋 減 弱 ， 並 受 高 空 擾 動 影 響 ， 下 週 中 後 期 華 南 地 區 天 氣 不 穩 定 ， 間 中 有 大 驟 雨 及 雷 暴 。 此 外 ， 位 於 琉 球 群 島 一 帶 的 熱 帶 氣 旋 桑 達 會 在 未 來 一 兩 日 橫 過 東 海 。 <p/><p/> 七 月 三 十 日 ( 星 期 六 ) <br/>
+    風    ：    
+    西 南 風 2 至 3 級 。  <br/>
+    天 氣 ： 
+    大 致 天 晴 ， 但 局 部 地 區 有 驟 雨 及 狂 風 雷 暴 。 日 間 酷 熱 。  <br/>
+    氣 溫 ：
+    28 至 
+    34 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    90 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 七 月 三 十 一 日 ( 星 期 日 ) <br/>
+    風    ：    
+    西 南 風 2 至 3 級 。  <br/>
+    天 氣 ： 
+    大 致 天 晴 及 酷 熱 ， 但 局 部 地 區 有 驟 雨 。  <br/>
+    氣 溫 ：
+    29 至 
+    34 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    90 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 八 月 一 日 ( 星 期 一 ) <br/>
+    風    ：    
+    西 南 風 2 至 3 級 。  <br/>
+    天 氣 ： 
+    天 晴 酷 熱 ， 但 局 部 地 區 有 驟 雨 。  <br/>
+    氣 溫 ：
+    29 至 
+    34 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    90 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 八 月 二 日 ( 星 期 二 ) <br/>
+    風    ：    
+    西 南 風 2 至 3 級 。  <br/>
+    天 氣 ： 
+    短 暫 時 間 有 陽 光 ， 有 幾 陣 驟 雨 。  <br/>
+    氣 溫 ：
+    28 至 
+    33 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    70 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中低 。<br/>
+    <p/><p/> 八 月 三 日 ( 星 期 三 ) <br/>
+    風    ：    
+    西 南 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 ， 有 驟 雨 及 雷 暴 。  <br/>
+    氣 溫 ：
+    27 至 
+    31 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 高 。<br/>
+    <p/><p/> 八 月 四 日 ( 星 期 四 ) <br/>
+    風    ：    
+    南 至 西 南 風 4 級 。  <br/>
+    天 氣 ： 
+    多 雲 ， 有 驟 雨 及 雷 暴 ， 雨 勢 有 時 頗 大 。  <br/>
+    氣 溫 ：
+    27 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    80 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 高 。<br/>
+    <p/><p/> 八 月 五 日 ( 星 期 五 ) <br/>
+    風    ：    
+    南 至 西 南 風 4 級 。  <br/>
+    天 氣 ： 
+    多 雲 ， 有 驟 雨 及 雷 暴 ， 雨 勢 有 時 頗 大 。  <br/>
+    氣 溫 ：
+    27 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    80 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 高 。<br/>
+    <p/><p/> 八 月 六 日 ( 星 期 六 ) <br/>
+    風    ：    
+    南 風 4 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 及 有 驟 雨 。  <br/>
+    氣 溫 ：
+    28 至 
+    31 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    80 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中 。<br/>
+    <p/><p/> 八 月 七 日 ( 星 期 日 ) <br/>
+    風    ：    
+    南 至 東 南 風 4 級 。  <br/>
+    天 氣 ： 
+    大 致 多 雲 及 有 幾 陣 驟 雨 ， 短 暫 時 間 有 陽 光 。  <br/>
+    氣 溫 ：
+    28 至 
+    32 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    顯 著 降 雨 概 率 ： 中低 。<br/>
+    <p/>
+    七  月 二 十 九  日 
+    
+        下 午 二 時      北 角   
+    錄 得 之 
+    海 水 
+      溫 度 為 28 度 。<br/> 七  月 二 十 九  日 
+    
+        上 午 七 時      天 文 台   
+    錄 得 之 
+    土 壤 
+      溫 度 為 ：<br/>0.5 米 
+      31.7 度
+      ；<br/>1.0 米 
+      30.7 度
+      。 
+            ]]></description>
+   </item>
+</channel>
+</rss>

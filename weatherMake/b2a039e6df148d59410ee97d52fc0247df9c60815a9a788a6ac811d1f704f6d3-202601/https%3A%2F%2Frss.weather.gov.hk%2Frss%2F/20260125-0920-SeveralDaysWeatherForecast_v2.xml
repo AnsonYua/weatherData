@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20260125075000</guid>
+      <pubDate>Sat, 24 Jan 2026 23:50:00 GMT</pubDate>
+      <title>Bulletin updated at 07:50 HKT 25/Jan/2026</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>An easterly airstream will affect the coast of Guangdong in the next couple of days. It will become cloudier gradually over the region, and the weather will be relatively humid. Under the influence of the northeast monsoon, it will be brighter over Guangdong midweek this week. A broad band of clouds is expected to cover southern China in the latter part of this week. A replenishment of the monsoon will affect the region over the weekend.<p/><p/>
+        Date/Month:
+        25/01 (Sunday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        26/01 (Monday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with a few rain patches. Coastal mist in the morning.<br/>
+        Temp range: 
+        18 -  
+        21 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        27/01 (Tuesday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain and mist patches in the morning and at night. Bright periods during the day.<br/>
+        Temp range: 
+        18 -  
+        23 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        28/01 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        60 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        29/01 (Thursday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy. Bright periods during the day.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        65 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        30/01 (Friday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Cloudy with one or two rain patches.<br/>
+        Temp range: 
+        18 -  
+        20 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        31/01 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with one or two light rain patches.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/02 (Sunday)<br/>
+        Wind:               
+        North to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Mainly cloudy. Bright periods during the day.<br/>
+        Temp range: 
+        15 -  
+        19 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/02 (Monday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy. Bright periods during the day.<br/>
+        Temp range: 
+        15 -  
+        19 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            25/01/2026 
+        at North Point            was 19 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            25/01/2026 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 20.8 degrees C
+                <br/>1.0 M below surface was 22.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

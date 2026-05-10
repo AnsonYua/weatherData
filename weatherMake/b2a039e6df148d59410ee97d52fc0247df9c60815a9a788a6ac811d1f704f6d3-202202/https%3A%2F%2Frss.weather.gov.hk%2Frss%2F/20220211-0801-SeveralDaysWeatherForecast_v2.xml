@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220211074500</guid>
+      <pubDate>Thu, 10 Feb 2022 23:45:00 GMT</pubDate>
+      <title>Bulletin updated at 07:45 HKT 11/Feb/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon affecting the coast of southern China will moderate gradually today and tomorrow. The weather will improve and temperatures will rise slightly over the region. A cold front will reach the coast of Guangdong on Sunday. Temperatures will fall again and there will be a few rain patches over the region. The monsoon associated with the cold front is expected to be replaced by an easterly airstream midweek next week.<p/><p/>
+        Date/Month:
+        11/02 (Friday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/02 (Saturday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Mainly cloudy with sunny periods. Misty later.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/02 (Sunday)<br/>
+        Wind:               
+        East force 3, becoming north force 4 at night.<br/>
+        Weather:        
+        Cloudy with a few rain patches. Misty in the morning. Temperatures falling at night.<br/>
+        Temp range: 
+        16 -  
+        20 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        14/02 (Monday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy. Cool with one or two rain patches in the morning. Bright periods in the afternoon.<br/>
+        Temp range: 
+        14 -  
+        18 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/02 (Tuesday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with sunny intervals. Cool in the morning.<br/>
+        Temp range: 
+        15 -  
+        18 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/02 (Wednesday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with sunny intervals.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        17/02 (Thursday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        18/02 (Friday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with a few rain and mist patches.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        19/02 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Cool in the morning.<br/>
+        Temp range: 
+        15 -  
+        19 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            11/02/2022 
+        at North Point            was 18 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            11/02/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 20.3 degrees C
+                <br/>1.0 M below surface was 22.1 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

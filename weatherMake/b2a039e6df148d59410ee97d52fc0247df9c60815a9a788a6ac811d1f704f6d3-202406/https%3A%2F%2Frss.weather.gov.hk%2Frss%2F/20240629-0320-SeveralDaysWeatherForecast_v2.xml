@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240629000000</guid>
+      <pubDate>Fri, 28 Jun 2024 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 29/Jun/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The subtropical ridge will weaken slightly today and tomorrow, but the weather will still be very hot over southeastern China. Besides, the tropical disturbance now over the northern part of the South China Sea will edge closer to the coast of eastern Guangdong gradually this morning. Under the influence of the disturbance and a southwesterly airstream, there will be showers and thunderstorms over the coast of Guangdong in the next couple of days. The subtropical ridge will strengthen again early to midweek next week. The weather will be persistently very hot over southeastern China.<p/><p/>
+        Date/Month:
+        29/06 (Saturday)<br/>
+        Wind:               
+        South to southeast force 4, becoming southwest force 5 later, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and squally thunderstorms. More showers in the morning. Very hot with sunny intervals in the afternoon.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        30/06 (Sunday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Sunny intervals during the day.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        01/07 (Monday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms. Very hot with sunny intervals during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        02/07 (Tuesday)<br/>
+        Wind:               
+        South force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Isolated thunderstorms in the morning. Very hot with sunny intervals during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        03/07 (Wednesday)<br/>
+        Wind:               
+        South to southeast force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and a few showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/07 (Thursday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Mainly fine apart from isolated showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        34 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/07 (Friday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Mainly fine apart from isolated showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        34 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/07 (Saturday)<br/>
+        Wind:               
+        Southeast force 3.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/07 (Sunday)<br/>
+        Wind:               
+        Southeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals and a few showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            28/06/2024 
+        at North Point            was 29 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            28/06/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.4 degrees C
+                <br/>1.0 M below surface was 29.2 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220110074500</guid>
+      <pubDate>Sun, 09 Jan 2022 23:45:00 GMT</pubDate>
+      <title>Bulletin updated at 07:45 HKT 10/Jan/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon will continue to affect the coastal areas of Guangdong today. A replenishment of the monsoon is expected to reach the coast of southern China on Tuesday. It will remain cool in the morning over the region in the middle and latter parts of this week.<p/><p/>
+        Date/Month:
+        10/01 (Monday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy. Cool in the morning. Sunny intervals and some haze in the afternoon.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        70 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/01 (Tuesday)<br/>
+        Wind:               
+        North force 4 to 5.<br/>
+        Weather:        
+        One or two light rain patches at first. Dry with sunny periods during the day. Cool in the morning and at night.<br/>
+        Temp range: 
+        16 -  
+        20 C<br/>
+        R.H. range:  
+        50 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/01 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny intervals. Cool in the morning and at night.<br/>
+        Temp range: 
+        15 -  
+        19 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/01 (Thursday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly fine. Cool in the morning. Dry during the day.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/01 (Friday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Sunny intervals. Cool in the morning.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        65 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/01 (Saturday)<br/>
+        Wind:               
+        East force 4, force 5 at first.<br/>
+        Weather:        
+        Sunny intervals. Cool in the morning.<br/>
+        Temp range: 
+        16 -  
+        20 C<br/>
+        R.H. range:  
+        70 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/01 (Sunday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals. One or two rain patches at night.<br/>
+        Temp range: 
+        18 -  
+        21 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        17/01 (Monday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Cool with one or two rain patches in the morning. Sunny intervals during the day.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        18/01 (Tuesday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Sunny intervals. Cool in the morning.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            10/01/2022 
+        at North Point            was 20 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            10/01/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 21.8 degrees C
+                <br/>1.0 M below surface was 23.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20251019113000</guid>
+      <pubDate>Sun, 19 Oct 2025 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 19/Oct/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>An intense northeast monsoon will persist over southern China in the next few days. Tropical Cyclone Fengshen will move across the central and northern parts of the South China Sea tomorrow, gradually edging closer to the coast of Guangdong. Under the combined effect of the monsoon and Fengshen, it will be persistently windy with rain over the coast of southern China in the next few days. Temperatures will fall appreciably. Seas will be rough with swells. Under the influence of the monsoon, Fengshen will start to turn southwestwards and weaken on Tuesday. With Fengshen departing from the coast of Guangdong, the weather will be brighter and daytime temperatures will rise over the region in the latter part of this week.<p/><p/>
+        Date/Month:
+        20/10 (Monday)<br/>
+        Wind:               
+        North force 5, force 6 offshore, up to force 8 on high ground.<br/>
+        Weather:        
+        Mainly cloudy. Sunny intervals during the day. A few rain patches with temperatures falling appreciably at night. Seas will be rough with swells.<br/>
+        Temp range: 
+        23 -  
+        29 C<br/>
+        R.H. range:  
+        55 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        21/10 (Tuesday)<br/>
+        Wind:               
+        North force 5 to 6, occasionally force 8 offshore, up to force 9 on high ground.<br/>
+        Weather:        
+        Cloudy with rain. Rain will be more frequent at times. Appreciably cooler. Seas will be rough with swells.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        22/10 (Wednesday)<br/>
+        Wind:               
+        North force 5, force 6 offshore, up to force 8 on high ground.<br/>
+        Weather:        
+        Cloudy with a few rain patches. Slightly cooler. Rain will be more frequent at first. Seas will be rough with swells.<br/>
+        Temp range: 
+        19 -  
+        22 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        23/10 (Thursday)<br/>
+        Wind:               
+        North force 4 to 5, force 6 offshore at first, up to force 8 on high ground.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Slightly cooler in the morning.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        24/10 (Friday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy. Dry with sunny intervals during the day.<br/>
+        Temp range: 
+        22 -  
+        27 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        25/10 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Sunny periods. Dry during the day.<br/>
+        Temp range: 
+        24 -  
+        30 C<br/>
+        R.H. range:  
+        45 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        26/10 (Sunday)<br/>
+        Wind:               
+        North to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Sunny periods. Dry during the day.<br/>
+        Temp range: 
+        24 -  
+        30 C<br/>
+        R.H. range:  
+        45 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        27/10 (Monday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny intervals. Dry during the day.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        28/10 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny intervals. Dry during the day.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            19/10/2025 
+        at North Point            was 29 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            19/10/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.3 degrees C
+                <br/>1.0 M below surface was 30.2 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

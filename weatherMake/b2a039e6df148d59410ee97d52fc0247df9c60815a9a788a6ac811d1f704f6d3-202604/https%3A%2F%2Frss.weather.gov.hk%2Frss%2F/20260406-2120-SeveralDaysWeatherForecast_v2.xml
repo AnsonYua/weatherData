@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20260406195000</guid>
+      <pubDate>Mon, 06 Apr 2026 11:50:00 GMT</pubDate>
+      <title>Bulletin updated at 19:50 HKT 06/Apr/2026</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>With the trough of low pressure affecting Guangdong weakening gradually, the weather will be brighter over the region tomorrow. It will be hot during the day. An easterly airstream will bring one or two rain patches to the coast of Guangdong on Wednesday. An anticyclone aloft is expected to cover the coast of southern China and the northern part of the South China Sea in the latter part of this week to early next week. The weather will improve over the region. Meanwhile, under the influence of a southerly airstream, it will be hot during the day over the region.<p/><p/>
+        Date/Month:
+        07/04 (Tuesday)<br/>
+        Wind:               
+        South force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with one or two showers. Hot with sunny intervals during the day.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/04 (Wednesday)<br/>
+        Wind:               
+        East to southeast force 4, force 5 at first.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Visibility relatively low in some areas in the morning.<br/>
+        Temp range: 
+        23 -  
+        26 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/04 (Thursday)<br/>
+        Wind:               
+        South to southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy. Hot with sunny periods during the day.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/04 (Friday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Sunny periods. Hot during the day.<br/>
+        Temp range: 
+        25 -  
+        30 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/04 (Saturday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two isolated showers. Hot with sunny periods during the day.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/04 (Sunday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two isolated showers. Hot with sunny periods during the day.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/04 (Monday)<br/>
+        Wind:               
+        South force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two isolated showers. Hot with sunny periods during the day.<br/>
+        Temp range: 
+        25 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/04 (Tuesday)<br/>
+        Wind:               
+        South force 3 to 4.<br/>
+        Weather:        
+        Sunny periods. Hot during the day.<br/>
+        Temp range: 
+        25 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/04 (Wednesday)<br/>
+        Wind:               
+        South force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals. Hot during the day.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            06/04/2026 
+        at North Point            was 23 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            06/04/2026 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 25.1 degrees C
+                <br/>1.0 M below surface was 25.3 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240103232000</guid>
+      <pubDate>Wed, 03 Jan 2024 15:20:00 GMT</pubDate>
+      <title>Bulletin updated at 23:20 HKT 03/Jan/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of the northeast monsoon, it will be persistently cool in the morning over the coast of Guangdong in the next few days. A replenishment of the monsoon is expected to reach the coast of southern China on Sunday. It will be cloudier over the region in the following couple of days.<p/><p/>
+        Date/Month:
+        04/01 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Dry with sunny periods.<br/>
+        Temp range: 
+        15 -  
+        19 C<br/>
+        R.H. range:  
+        50 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/01 (Friday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/01 (Saturday)<br/>
+        Wind:               
+        East force 3.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        17 -  
+        22 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/01 (Sunday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/01 (Monday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches in the morning and at night.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/01 (Tuesday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals. One or two light rain patches in the morning.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/01 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/01 (Thursday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy. Sunny periods during the day.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/01 (Friday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy. Sunny periods during the day.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            03/01/2024 
+        at North Point            was 20 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            03/01/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 22.2 degrees C
+                <br/>1.0 M below surface was 23.5 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

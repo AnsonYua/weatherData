@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220909062000</guid>
+      <pubDate>Thu, 08 Sep 2022 22:20:00 GMT</pubDate>
+      <title>Bulletin updated at 06:20 HKT 09/Sep/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A ridge of high pressure will bring generally fine weather to the coast of southeastern China today. It will be hot with weak winds on the Mid-Autumn Festival and the following couple of days over the coast of Guangdong. Showers triggered by high temperatures will also affect the region. A relatively dry continental airstream will bring fine and very hot weather to southern China in the middle and latter parts of next week. Besides, Tropical Cyclone Muifa will move in the general direction of the seas east of Taiwan in the next few days and intensify gradually.<p/><p/>
+        Date/Month:
+        09/09 (Friday)<br/>
+        Wind:               
+        East to northeast force 3.<br/>
+        Weather:        
+        Mainly fine and dry. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        45 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/09 (Saturday)<br/>
+        Wind:               
+        East force 2 to 3.<br/>
+        Weather:        
+        Sunny periods. Dry during the day. A few showers later. Mainly cloudy at night.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        11/09 (Sunday)<br/>
+        Wind:               
+        Light winds force 2.<br/>
+        Weather:        
+        Sunny periods and a few showers. Some haze. Mainly cloudy in the morning and at night.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        12/09 (Monday)<br/>
+        Wind:               
+        North to northeast force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny periods during the day. Some haze.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        13/09 (Tuesday)<br/>
+        Wind:               
+        North to northeast force 2 to 3.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/09 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 2 to 3.<br/>
+        Weather:        
+        Fine and dry. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        34 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/09 (Thursday)<br/>
+        Wind:               
+        Light winds force 2.<br/>
+        Weather:        
+        Fine and dry. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        34 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/09 (Friday)<br/>
+        Wind:               
+        Light winds force 2.<br/>
+        Weather:        
+        Fine and dry. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        34 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        17/09 (Saturday)<br/>
+        Wind:               
+        East to southeast force 3.<br/>
+        Weather:        
+        Sunny periods. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            08/09/2022 
+        at North Point            was 28 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            08/09/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.3 degrees C
+                <br/>1.0 M below surface was 30.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

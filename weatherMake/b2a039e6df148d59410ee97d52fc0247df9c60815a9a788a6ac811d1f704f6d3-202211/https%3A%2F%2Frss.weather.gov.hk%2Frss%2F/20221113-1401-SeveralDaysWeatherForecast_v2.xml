@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20221113113000</guid>
+      <pubDate>Sun, 13 Nov 2022 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 13/Nov/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A fresh to strong northeast monsoon will affect the coastal areas of southern China in the next couple of days. Besides, the anticyclone aloft will weaken in the middle and latter parts of this week. Meanwhile, a broad band of clouds will cover southern China. There will be one or two rain patches over the region.<p/><p/>
+        Date/Month:
+        14/11 (Monday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly cloudy. Sunny intervals in the morning.<br/>
+        Temp range: 
+        23 -  
+        26 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/11 (Tuesday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        22 -  
+        26 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/11 (Wednesday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Bright periods during the day.<br/>
+        Temp range: 
+        22 -  
+        25 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        17/11 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches. Bright periods during the day.<br/>
+        Temp range: 
+        22 -  
+        25 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        18/11 (Friday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy. Bright periods during the day.<br/>
+        Temp range: 
+        22 -  
+        25 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        19/11 (Saturday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        22 -  
+        26 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        20/11 (Sunday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        21/11 (Monday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        22/11 (Tuesday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        22 -  
+        26 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            13/11/2022 
+        at North Point            was 24 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            13/11/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 26.4 degrees C
+                <br/>1.0 M below surface was 27.2 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

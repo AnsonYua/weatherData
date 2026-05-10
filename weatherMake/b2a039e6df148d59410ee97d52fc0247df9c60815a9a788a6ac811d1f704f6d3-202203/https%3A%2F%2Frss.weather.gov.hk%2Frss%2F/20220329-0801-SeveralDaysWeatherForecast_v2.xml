@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220329075000</guid>
+      <pubDate>Mon, 28 Mar 2022 23:50:00 GMT</pubDate>
+      <title>Bulletin updated at 07:50 HKT 29/Mar/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of the northeast monsoon, it will be windy over the coast of Guangdong today. Meanwhile, an upper-air disturbance will bring showers and thunderstorms to the region. The monsoon is expected to moderate midweek this week, the weather will improve gradually with temperatures rising slightly over the coast of southern China. Another surge of the northeast monsoon will bring cool weather to Guangdong in the latter part of this week to early next week.<p/><p/>
+        Date/Month:
+        29/03 (Tuesday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Isolated squally thunderstorms later.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        30/03 (Wednesday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        A few showers and thunderstorms at first. Sunny intervals during the day. Misty at night.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        31/03 (Thursday)<br/>
+        Wind:               
+        East force 3. Force 5 later, force 6 offshore.<br/>
+        Weather:        
+        Sunny periods. Misty in the morning.<br/>
+        Temp range: 
+        20 -  
+        26 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/04 (Friday)<br/>
+        Wind:               
+        East to northeast force 5, force 6 offshore and on high ground.<br/>
+        Weather:        
+        Sunny intervals. One or two showers at night. Becoming cool.<br/>
+        Temp range: 
+        17 -  
+        22 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/04 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Cloudy with a few showers. Cool in the morning and at night.<br/>
+        Temp range: 
+        15 -  
+        19 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        03/04 (Sunday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Cool with a few showers in the morning. Sunny intervals in the afternoon.<br/>
+        Temp range: 
+        15 -  
+        20 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/04 (Monday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore later.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        17 -  
+        24 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/04 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Sunny periods. Dry during the day.<br/>
+        Temp range: 
+        18 -  
+        25 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/04 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        19 -  
+        26 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            29/03/2022 
+        at North Point            was 19 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            29/03/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 22.9 degrees C
+                <br/>1.0 M below surface was 23.8 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

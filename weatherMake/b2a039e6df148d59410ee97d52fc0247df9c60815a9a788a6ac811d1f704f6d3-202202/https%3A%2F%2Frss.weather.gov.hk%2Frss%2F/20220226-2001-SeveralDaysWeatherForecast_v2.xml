@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220226163000</guid>
+      <pubDate>Sat, 26 Feb 2022 08:30:00 GMT</pubDate>
+      <title>Bulletin updated at 16:30 HKT 26/Feb/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A relatively humid easterly airstream will gradually affect the coast of southern China next week. The weather will be cloudier with a few mist patches over the region and it will be mild during the day.<p/><p/>
+        Date/Month:
+        27/02 (Sunday)<br/>
+        Wind:               
+        Light winds force 2, becoming east force 3 to 4.<br/>
+        Weather:        
+        Fine. Cool in the morning. Dry during the day. Visibility relatively low in some areas.<br/>
+        Temp range: 
+        15 -  
+        21 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        28/02 (Monday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        16 -  
+        21 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/03 (Tuesday)<br/>
+        Wind:               
+        East force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain and mist patches. It will be mild.<br/>
+        Temp range: 
+        18 -  
+        22 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/03 (Wednesday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        One or two mist patches in the morning. Sunny periods in the afternoon.<br/>
+        Temp range: 
+        17 -  
+        22 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        03/03 (Thursday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches in the morning and at night.<br/>
+        Temp range: 
+        17 -  
+        20 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/03 (Friday)<br/>
+        Wind:               
+        East force 2 to 3.<br/>
+        Weather:        
+        Sunny intervals. Some mist in the morning and at night. It will be mild.<br/>
+        Temp range: 
+        18 -  
+        22 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/03 (Saturday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals. One or two light rain and mist patches in the morning and at night. It will be mild.<br/>
+        Temp range: 
+        18 -  
+        22 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/03 (Sunday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/03 (Monday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        16 -  
+        19 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            26/02/2022 
+        at North Point            was 17 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            26/02/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 18.2 degrees C
+                <br/>1.0 M below surface was 19.9 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

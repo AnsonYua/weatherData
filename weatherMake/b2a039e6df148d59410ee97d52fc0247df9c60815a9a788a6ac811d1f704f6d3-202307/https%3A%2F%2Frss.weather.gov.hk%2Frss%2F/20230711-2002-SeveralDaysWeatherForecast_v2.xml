@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230711163000</guid>
+      <pubDate>Tue, 11 Jul 2023 08:30:00 GMT</pubDate>
+      <title>Bulletin updated at 16:30 HKT 11/Jul/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>An anticyclone aloft will bring persistently very hot and generally fine weather to southern China in the next couple of days. With the anticyclone aloft weakening during the weekend, showers will increase gradually over the coast of Guangdong, but it will still be very hot. The area of low pressure now over the seas east of the Philippines is expected to move across the vicinity of Luzon towards the weekend. It may enter the northeastern part of the South China Sea and develop gradually during the weekend and early next week. The weather will be unsettled over the coast of southern China early to midweek next week.<p/><p/>
+        Date/Month:
+        12/07 (Wednesday)<br/>
+        Wind:               
+        South to southwest force 3.<br/>
+        Weather:        
+        Mainly fine and very hot.<br/>
+        Temp range: 
+        29 -  
+        34 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/07 (Thursday)<br/>
+        Wind:               
+        South force 3.<br/>
+        Weather:        
+        Mainly fine and very hot.<br/>
+        Temp range: 
+        29 -  
+        34 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        14/07 (Friday)<br/>
+        Wind:               
+        South force 3.<br/>
+        Weather:        
+        Mainly fine and very hot.<br/>
+        Temp range: 
+        29 -  
+        34 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/07 (Saturday)<br/>
+        Wind:               
+        Light winds force 2.<br/>
+        Weather:        
+        Mainly fine apart from isolated showers. Extremely hot during the day.<br/>
+        Temp range: 
+        29 -  
+        35 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/07 (Sunday)<br/>
+        Wind:               
+        Light winds force 2, becoming east to northeast force 3 to 4 later.<br/>
+        Weather:        
+        Sunny intervals and a few showers. Isolated squally thunderstorms later.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        17/07 (Monday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore later.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and squally thunderstorms. More showers later.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        18/07 (Tuesday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and squally thunderstorms.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        19/07 (Wednesday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore at first.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and squally thunderstorms.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        20/07 (Thursday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            11/07/2023 
+        at North Point            was 29 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            11/07/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.7 degrees C
+                <br/>1.0 M below surface was 29.9 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

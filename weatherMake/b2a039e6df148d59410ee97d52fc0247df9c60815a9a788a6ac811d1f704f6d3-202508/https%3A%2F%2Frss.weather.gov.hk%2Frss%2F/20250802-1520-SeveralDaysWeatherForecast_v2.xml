@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20250802113000</guid>
+      <pubDate>Sat, 02 Aug 2025 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 02/Aug/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of an active southwest monsoon and an upper-air disturbance, there will be heavy showers and squally thunderstorms over the coast of Guangdong in the next couple of days. With the southwest monsoon moderating and an anticyclone aloft covering the coast of Guangdong gradually, showers will ease off over the region in the middle and latter parts of next week. It will be very hot during the day.<p/><p/>
+        Date/Month:
+        03/08 (Sunday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Cloudy with showers and a few squally thunderstorms. Showers will be heavy at times.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        04/08 (Monday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Cloudy with showers and a few squally thunderstorms. Showers will be heavy at times.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        05/08 (Tuesday)<br/>
+        Wind:               
+        Southwest force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Cloudy with showers and a few squally thunderstorms. Showers will be heavy at times.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        06/08 (Wednesday)<br/>
+        Wind:               
+        South to southwest force 4.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and a few thunderstorms. Bright periods in the afternoon.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        07/08 (Thursday)<br/>
+        Wind:               
+        Southwest force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny periods during the day.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        08/08 (Friday)<br/>
+        Wind:               
+        Southwest force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        09/08 (Saturday)<br/>
+        Wind:               
+        Southwest force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and isolated showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/08 (Sunday)<br/>
+        Wind:               
+        Southwest force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and one or two showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        11/08 (Monday)<br/>
+        Wind:               
+        South to southwest force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and isolated showers. Very hot during the day.<br/>
+        Temp range: 
+        28 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            02/08/2025 
+        at North Point            was 26 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            02/08/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.3 degrees C
+                <br/>1.0 M below surface was 29.9 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

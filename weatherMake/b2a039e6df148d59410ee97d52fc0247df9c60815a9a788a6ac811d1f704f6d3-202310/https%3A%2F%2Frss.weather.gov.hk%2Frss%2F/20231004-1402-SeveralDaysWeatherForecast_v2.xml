@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20231004113000</guid>
+      <pubDate>Wed, 04 Oct 2023 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 04/Oct/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Tropical Cyclone Koinu will move across the southern part of Taiwan tomorrow. Under the influence of its outer subsiding air, the weather will remain very hot over the coast of southern China. Koinu will move towards the coast of eastern Guangdong in the following couple of days, edging closer to the vicinity of the Pearl River Estuary. Meanwhile, the northeast monsoon will also reach southern China. Koinu will gradually weaken. Under the influence of the monsoon and Koinu's rainbands, it will be windier with showers over the coastal areas of Guangdong over the weekend. The weather will be appreciably cooler. The northeast monsoon will continue to affect southern China early to midweek next week.<p/><p/>
+        Date/Month:
+        05/10 (Thursday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Mainly fine apart from isolated showers. Very hot and dry during the day.<br/>
+        Temp range: 
+        28 -  
+        34 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/10 (Friday)<br/>
+        Wind:               
+        North force 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Becoming cloudy with a few showers.<br/>
+        Temp range: 
+        26 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        07/10 (Saturday)<br/>
+        Wind:               
+        North force 5 to 6, occasionally force 7 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        08/10 (Sunday)<br/>
+        Wind:               
+        North to northeast force 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. More showers at first.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        09/10 (Monday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        10/10 (Tuesday)<br/>
+        Wind:               
+        North to northeast force 4, occasionally force 5 offshore.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        25 -  
+        31 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/10 (Wednesday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Sunny periods and isolated showers.<br/>
+        Temp range: 
+        26 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/10 (Thursday)<br/>
+        Wind:               
+        Northeast force 4, occasionally force 5 offshore.<br/>
+        Weather:        
+        Sunny periods and isolated showers.<br/>
+        Temp range: 
+        26 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        13/10 (Friday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5 offshore.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        25 -  
+        30 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            04/10/2023 
+        at North Point            was 29 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            04/10/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.4 degrees C
+                <br/>1.0 M below surface was 30.3 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

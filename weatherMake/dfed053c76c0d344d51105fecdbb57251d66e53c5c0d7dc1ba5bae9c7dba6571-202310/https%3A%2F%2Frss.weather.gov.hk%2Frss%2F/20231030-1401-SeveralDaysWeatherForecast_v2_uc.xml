@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="ndayc.xsl" type="text/xsl" ?><rss version="2.0">
+   <channel>
+      <title>九天天氣預報</title>
+      <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+      <description>九天天氣預報</description>
+      <language>zh-tw</language>
+      <webMaster>mailbox@hko.gov.hk</webMaster>
+      <copyright>本檔案的內容，包括但不限於所有文本、平面圖像、圖畫、圖片、照片以及數據或其他資料的匯編，均受版權保障。香港特別行政區政府是本檔案內所有版權作品的擁有人。
+       </copyright>
+      <image>
+         <url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+         <title>九天天氣預報</title>
+         <link>http://www.weather.gov.hk/</link>
+      </image>
+      <item>
+         <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20231030113000</guid>
+         <pubDate>Mon, 30 Oct 2023 03:30:00 GMT</pubDate>
+         <title>香港天文台於2023年10月30日11時30分發出之天氣報告</title>
+         <category>F</category>
+         <author>香港天文台</author>
+         <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+         <description><![CDATA[ 
+            
+    天 氣 概 況 ：<br/>受 乾 燥 的 東 北 季 候 風 影 響 ， 未 來 數 日 廣 東 普 遍 晴 朗 。 隨 著 季 候 風 稍 為 緩 和 ， 本 週 後 期 該 區 日 夜 溫 差 較 大 。 預 料 一 股 東 北 季 候 風 補 充 會 在 下 週 初 抵 達 華 南 沿 岸 ， 該 區 風 勢 較 大 。 <p/><p/> 十 月 三 十 一 日 ( 星 期 二 ) <br/>
+    風    ：    
+    東 至 東 北 風 4 至 5 級 。  <br/>
+    天 氣 ： 
+    大 致 天 晴 。 日 間 乾 燥 。  <br/>
+    氣 溫 ：
+    24 至 
+    29 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    55 至 
+    75 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 一 日 ( 星 期 三 ) <br/>
+    風    ：    
+    東 風 4 級 ， 初 時 5 級 。  <br/>
+    天 氣 ： 
+    天 晴 乾 燥 。  <br/>
+    氣 溫 ：
+    24 至 
+    29 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    50 至 
+    75 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 二 日 ( 星 期 四 ) <br/>
+    風    ：    
+    東 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    天 晴 乾 燥 。  <br/>
+    氣 溫 ：
+    24 至 
+    29 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    50 至 
+    75 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 三 日 ( 星 期 五 ) <br/>
+    風    ：    
+    東 風 3 級 。  <br/>
+    天 氣 ： 
+    大 致 天 晴 。 日 間 乾 燥 。  <br/>
+    氣 溫 ：
+    24 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    50 至 
+    80 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 四 日 ( 星 期 六 ) <br/>
+    風    ：    
+    東 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    部 分 時 間 有 陽 光 。  <br/>
+    氣 溫 ：
+    24 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    85 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 五 日 ( 星 期 日 ) <br/>
+    風    ：    
+    東 至 東 北 風 3 至 4 級 。  <br/>
+    天 氣 ： 
+    短 暫 時 間 有 陽 光 ， 稍 後 有 一 兩 陣 雨 。  <br/>
+    氣 溫 ：
+    24 至 
+    30 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    85 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 六 日 ( 星 期 一 ) <br/>
+    風    ：    
+    北 至 東 北 風 4 至 5 級 ， 稍 後 離 岸 間 中 6 級 。  <br/>
+    天 氣 ： 
+    短 暫 時 間 有 陽 光 ， 有 一 兩 陣 雨 。  <br/>
+    氣 溫 ：
+    23 至 
+    27 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    85 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 七 日 ( 星 期 二 ) <br/>
+    風    ：    
+    東 至 東 北 風 4 至 5 級 ， 離 岸 間 中 6 級 。  <br/>
+    天 氣 ： 
+    短 暫 時 間 有 陽 光 。  <br/>
+    氣 溫 ：
+    23 至 
+    27 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    80 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 一 月 八 日 ( 星 期 三 ) <br/>
+    風    ：    
+    東 至 東 北 風 4 至 5 級 。  <br/>
+    天 氣 ： 
+    短 暫 時 間 有 陽 光 。  <br/>
+    氣 溫 ：
+    24 至 
+    28 度 。<br/>
+    相 對 濕 度 ：百 分 之 
+    60 至 
+    80 。<br/>
+    顯 著 降 雨 概 率 ： 低 。<br/>
+    <p/>
+    十  月 三 十  日 
+    
+        上 午 七 時      北 角   
+    錄 得 之 
+    海 水 
+      溫 度 為 25 度 。<br/> 十  月 三 十  日 
+    
+        上 午 七 時      天 文 台   
+    錄 得 之 
+    土 壤 
+      溫 度 為 ：<br/>0.5 米 
+      27.5 度
+      ；<br/>1.0 米 
+      28.1 度
+      。 
+            ]]></description>
+   </item>
+</channel>
+</rss>

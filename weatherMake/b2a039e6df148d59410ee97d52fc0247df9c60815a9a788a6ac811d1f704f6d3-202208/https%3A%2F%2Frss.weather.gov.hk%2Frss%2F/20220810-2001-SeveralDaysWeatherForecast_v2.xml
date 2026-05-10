@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20220810182500</guid>
+      <pubDate>Wed, 10 Aug 2022 10:25:00 GMT</pubDate>
+      <title>Bulletin updated at 18:25 HKT 10/Aug/2022</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Tropical Cyclone Mulan will move across the vicinity of Beibu Wan today and tomorrow. It will enter into the inland areas of Vietnam and weaken gradually but its outer rainbands will still bring squally showers and thunderstorms to the northern part of the South China Sea and the coast of Guangdong. There will be swells. A broad trough of low pressure will continue to bring showers to the northern part of the South China Sea in the latter part of this week. The anticyclone aloft is expected to strengthen slightly early next week and the weather will improve over southeastern China. An upper-air disturbance will bring showers to the coast of southern China again midweek next week. Besides, the tropical cyclone over the western North Pacific will move towards the vicinity of Honshu of Japan in the next couple of days.<p/><p/>
+        Date/Month:
+        11/08 (Thursday)<br/>
+        Wind:               
+        Southeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Cloudy with showers and squally thunderstorms. Showers will be heavy at times at first. There will be swells.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        12/08 (Friday)<br/>
+        Wind:               
+        Southeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers.<br/>
+        Temp range: 
+        27 -  
+        30 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        13/08 (Saturday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        30 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        14/08 (Sunday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        15/08 (Monday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Sunny periods and a few showers.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        16/08 (Tuesday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        17/08 (Wednesday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        18/08 (Thursday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        28 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        19/08 (Friday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Sunny periods and a few showers.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            10/08/2022 
+        at North Point            was 27 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            10/08/2022 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 29.3 degrees C
+                <br/>1.0 M below surface was 30.1 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230831000000</guid>
+      <pubDate>Wed, 30 Aug 2023 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 31/Aug/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Tropical Cyclone Saola will move across the northeastern part of the South China Sea and towards the coast of eastern Guangdong today and tomorrow, edging closer to the vicinity of the Pearl River Estuary gradually. It will be windy with squally showers and swells over the coast of Guangdong tomorrow and over the weekend. Saola may be affected by the northeast monsoon and Tropical Cyclone Haikui thereafter, and there are still uncertainties in its track and intensity. Under the influence of a broad trough of low pressure, there will still be showers over the coast of southern China early next week. Besides, Haikui will move towards the vicinity of the Ryukyu Islands today and tomorrow.<p/><p/>
+        Date/Month:
+        31/08 (Thursday)<br/>
+        Wind:               
+        North force 4 to 5, force 6 later. Occasionally force 7 on high ground.<br/>
+        Weather:        
+        Sunny periods and isolated showers. Hot and dry during the day. There will be swells.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        60 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/09 (Friday)<br/>
+        Wind:               
+        North to northwest force 5 to 6, occasionally up to force 8 offshore and on high ground.<br/>
+        Weather:        
+        Sunny intervals. Squally showers and thunderstorms later. There will be swells.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        02/09 (Saturday)<br/>
+        Wind:               
+        North to northeast force 5 to 6, occasionally force 8 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional squally showers and thunderstorms. There will be swells.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        03/09 (Sunday)<br/>
+        Wind:               
+        East force 5 to 6, occasionally force 7 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with occasional squally showers and thunderstorms. Seas will be rough with swells.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        04/09 (Monday)<br/>
+        Wind:               
+        East force 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        05/09 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        06/09 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        07/09 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        08/09 (Friday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            30/08/2023 
+        at North Point            was 28 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            30/08/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.5 degrees C
+                <br/>1.0 M below surface was 30.5 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

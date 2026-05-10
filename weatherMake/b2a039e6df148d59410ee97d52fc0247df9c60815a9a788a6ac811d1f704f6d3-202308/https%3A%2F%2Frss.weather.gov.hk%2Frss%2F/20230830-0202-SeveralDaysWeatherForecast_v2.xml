@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230830000000</guid>
+      <pubDate>Tue, 29 Aug 2023 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 30/Aug/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Tropical Cyclone Saola will move across the Luzon Strait today and tomorrow, and move towards the vicinity of the coast of eastern Guangdong to southern Fujian. Meanwhile, Tropical Cyclone Haikui located to the east of
+Saola will move in the general direction of the vicinity of the Ryukyu Islands in the next couple of days. It may
+interact with Saola and the subsequent movement of Saola has a rather high uncertainty. Saola may move westwards along the coastal waters of Guangdong or weaken overland in southeastern China. Under the influence of the outer subsiding air of Saola, it will be very hot over Guangdong in the next couple of days. Showers associated with Saola is expected to affect the northern part of the South China Sea and the coast of Guangdong in the latter part of this week and early next week. It will be windier and there will be swells over the region.<p/><p/>
+        Date/Month:
+        30/08 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 3 to 4.<br/>
+        Weather:        
+        Sunny periods and isolated showers. Very hot during the day.<br/>
+        Temp range: 
+        26 -  
+        33 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        31/08 (Thursday)<br/>
+        Wind:               
+        North force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Sunny periods. Very hot and dry during the day.<br/>
+        Temp range: 
+        27 -  
+        34 C<br/>
+        R.H. range:  
+        55 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/09 (Friday)<br/>
+        Wind:               
+        North to northwest force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Sunny periods and a few showers. Very hot during the day. Isolated thunderstorms later. There will be swells.<br/>
+        Temp range: 
+        27 -  
+        33 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        02/09 (Saturday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and thunderstorms. There will be swells.<br/>
+        Temp range: 
+        28 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        03/09 (Sunday)<br/>
+        Wind:               
+        East force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Mainly cloudy with squally showers and thunderstorms.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        04/09 (Monday)<br/>
+        Wind:               
+        East force 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        05/09 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        06/09 (Wednesday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        07/09 (Thursday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            29/08/2023 
+        at North Point            was 27 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            29/08/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.6 degrees C
+                <br/>1.0 M below surface was 30.5 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

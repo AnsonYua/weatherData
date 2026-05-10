@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20241119000000</guid>
+      <pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+      <title>Bulletin updated at 00:00 HKT 19/Nov/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon will affect the coast of southern China in the next couple of days. Tropical Cyclone Man-yi will move across the northern part of the South China Sea in the general direction of the vicinity south of Hainan Island and weaken gradually today and tomorrow. Under the combined effect of Man-yi and the northeast monsoon, it will be windy and rainy over the coast of Guangdong and the northern part of the South China Sea today and tomorrow. It will be appreciably cooler with swells. With Man-yi departing from the coastal areas and dissipating gradually, showers will ease off and it will become brighter over the region in the latter part of this week. Temperatures during the day will rise slightly. Another surge of a strong northeast monsoon will affect the coast of Guangdong over the weekend. It will be windy over the region.<p/><p/>
+        Date/Month:
+        19/11 (Tuesday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore, up to force 7 on high ground.<br/>
+        Weather:        
+        Cloudy with a few rain patches. Rain will become more frequent with squalls. It will be appreciably cooler. There will be swells.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        20/11 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Cloudy with occasional rain. It will be appreciably cooler. There will be swells.<br/>
+        Temp range: 
+        18 -  
+        21 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        21/11 (Thursday)<br/>
+        Wind:               
+        North to northeast force 4, occasionally force 5 at first.<br/>
+        Weather:        
+        Mainly cloudy with a few rain patches. Cooler in the morning and at night.<br/>
+        Temp range: 
+        18 -  
+        22 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        22/11 (Friday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy. Slightly cooler in the morning. Sunny intervals during the day.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        23/11 (Saturday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches in the morning. Sunny intervals during the day.<br/>
+        Temp range: 
+        20 -  
+        24 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        24/11 (Sunday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        21 -  
+        24 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        25/11 (Monday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        26/11 (Tuesday)<br/>
+        Wind:               
+        Northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods.<br/>
+        Temp range: 
+        20 -  
+        24 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        27/11 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 4 to 5.<br/>
+        Weather:        
+        Sunny periods. Slightly cooler in the morning.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        55 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            18/11/2024 
+        at North Point            was 25 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            18/11/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 27.1 degrees C
+                <br/>1.0 M below surface was 28.1 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

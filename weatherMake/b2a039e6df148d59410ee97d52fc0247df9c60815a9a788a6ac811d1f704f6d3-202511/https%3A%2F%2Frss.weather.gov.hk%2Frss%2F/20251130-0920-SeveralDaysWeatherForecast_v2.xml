@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20251130075000</guid>
+      <pubDate>Sat, 29 Nov 2025 23:50:00 GMT</pubDate>
+      <title>Bulletin updated at 07:50 HKT 30/Nov/2025</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon will continue to affect the coastal areas of Guangdong in the next couple of days. Under the influence of a broad band of clouds, it will be cloudier with one or two rain patches over the region. A replenishment of the monsoon is expected to bring slightly cooler weather to the coast of southern China midweek this week. With the band of clouds covering the coastal areas thinning out gradually in the latter part of this week, the weather will improve over the region. It will be dry during the day. Besides, Tropical Cyclone Koto will linger over the central and southern parts of the South China Sea in the next couple of days. It will then move in the general direction of the vicinity of the southern part of Vietnam and weaken gradually. On the other hand, an area of low pressure associated with the remnant of Tropical Cyclone Senyar is bringing unsettled weather to the southern part of the South China Sea.<p/><p/>
+        Date/Month:
+        30/11 (Sunday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5 offshore at first.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches in the morning and at night. Dry with bright periods during the day.<br/>
+        Temp range: 
+        21 -  
+        24 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        01/12 (Monday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches in the morning. Sunny intervals during the day.<br/>
+        Temp range: 
+        21 -  
+        25 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        02/12 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        21 -  
+        24 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        03/12 (Wednesday)<br/>
+        Wind:               
+        North to northeast force 4 to 5, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Mainly cloudy and slightly cooler. One or two rain patches at first.<br/>
+        Temp range: 
+        19 -  
+        22 C<br/>
+        R.H. range:  
+        60 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        04/12 (Thursday)<br/>
+        Wind:               
+        Northeast force 4 to 5, occasionally force 6 on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy. Cool in the morning. Sunny intervals during the day.<br/>
+        Temp range: 
+        17 -  
+        21 C<br/>
+        R.H. range:  
+        60 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/12 (Friday)<br/>
+        Wind:               
+        Northeast force 4, occasionally force 5 offshore.<br/>
+        Weather:        
+        Sunny periods. Dry during the day.<br/>
+        Temp range: 
+        19 -  
+        22 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/12 (Saturday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        55 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/12 (Sunday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        19 -  
+        23 C<br/>
+        R.H. range:  
+        55 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/12 (Monday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly fine. Dry during the day.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        50 -  
+        75 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            30/11/2025 
+        at North Point            was 20 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            30/11/2025 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 23.3 degrees C
+                <br/>1.0 M below surface was 25.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

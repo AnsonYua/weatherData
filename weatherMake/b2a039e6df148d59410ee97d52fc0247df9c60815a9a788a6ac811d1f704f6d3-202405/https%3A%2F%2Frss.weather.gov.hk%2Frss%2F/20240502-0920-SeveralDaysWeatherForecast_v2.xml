@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240502075000</guid>
+      <pubDate>Wed, 01 May 2024 23:50:00 GMT</pubDate>
+      <title>Bulletin updated at 07:50 HKT 02/May/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>An easterly airstream will affect the coast of Guangdong today and tomorrow. There will be a few showers over the region. Upper-air disturbances will bring showers and thunderstorms to southern China over the weekend. Under the influence of a southerly airstream, the weather will be hot during the day and brighter over Guangdong early next week. A band of clouds is expected to affect the coast of southern China in the middle and latter parts of next week. There will be one or two showers over the region.<p/><p/>
+        Date/Month:
+        02/05 (Thursday)<br/>
+        Wind:               
+        East force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. More showers with isolated thunderstorms in the afternoon.<br/>
+        Temp range: 
+        23 -  
+        26 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        03/05 (Friday)<br/>
+        Wind:               
+        East to southeast force 4 to 5, occasionally force 6 offshore.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        24 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        04/05 (Saturday)<br/>
+        Wind:               
+        Southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals in the morning.<br/>
+        Temp range: 
+        25 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        05/05 (Sunday)<br/>
+        Wind:               
+        South to southeast force 3.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        06/05 (Monday)<br/>
+        Wind:               
+        South force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy. One or two showers at first. Hot with sunny periods during the day.<br/>
+        Temp range: 
+        25 -  
+        31 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        07/05 (Tuesday)<br/>
+        Wind:               
+        South to southeast force 2 to 3.<br/>
+        Weather:        
+        Sunny periods. Hot during the day.<br/>
+        Temp range: 
+        26 -  
+        31 C<br/>
+        R.H. range:  
+        65 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/05 (Wednesday)<br/>
+        Wind:               
+        East to southeast force 2 to 3.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        09/05 (Thursday)<br/>
+        Wind:               
+        East to southeast force 3.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/05 (Friday)<br/>
+        Wind:               
+        East to southeast force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            02/05/2024 
+        at North Point            was 25 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            02/05/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 26.4 degrees C
+                <br/>1.0 M below surface was 26.6 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

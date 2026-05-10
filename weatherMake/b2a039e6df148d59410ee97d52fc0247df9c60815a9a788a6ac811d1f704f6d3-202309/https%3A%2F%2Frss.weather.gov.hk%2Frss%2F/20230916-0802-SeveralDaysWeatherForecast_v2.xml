@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20230916044500</guid>
+      <pubDate>Fri, 15 Sep 2023 20:45:00 GMT</pubDate>
+      <title>Bulletin updated at 04:45 HKT 16/Sep/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>A trough of low pressure will bring heavy showers and thunderstorms to southern China and the northern part of the South China Sea today. With the trough of low pressure weakening, showers will lessen and the weather will improve over the region in the next couple of days. A surge of the northeast monsoon is expected to affect the coast of southeastern China in the middle and latter parts of next week. The weather will be mainly fine during the day over the region.<p/><p/>
+        Date/Month:
+        16/09 (Saturday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers thunderstorms. Showers will be heavier in some areas.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        17/09 (Sunday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and isolated thunderstorms.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        80 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        18/09 (Monday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Sunny intervals and a few showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        19/09 (Tuesday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        20/09 (Wednesday)<br/>
+        Wind:               
+        East force 2 to 3.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        21/09 (Thursday)<br/>
+        Wind:               
+        East force 2 to 3.<br/>
+        Weather:        
+        Sunny periods and isolated showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        22/09 (Friday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        23/09 (Saturday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Sunny periods and one or two showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        24/09 (Sunday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Sunny intervals and one or two showers.<br/>
+        Temp range: 
+        26 -  
+        29 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            15/09/2023 
+        at North Point            was 27 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            15/09/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 28.1 degrees C
+                <br/>1.0 M below surface was 28.7 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

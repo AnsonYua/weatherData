@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="ndayc.xsl" type="text/xsl" ?><rss version="2.0">
+   <channel>
+      <title>九天天气预报</title>
+      <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+      <description>九天天气预报</description>
+      <language>zh-tw</language>
+      <webMaster>mailbox@hko.gov.hk</webMaster>
+      <copyright>本档案的内容，包括但不限于所有文本、平面图像、图画、图片、照片以及数据或其他资料的汇编，均受版权保障。香港特别行政区政府是本档案内所有版权作品的拥有人。
+       </copyright>
+      <image>
+         <url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+         <title>九天天气预报</title>
+         <link>http://www.weather.gov.hk/</link>
+      </image>
+      <item>
+         <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20211222045000</guid>
+         <pubDate>Tue, 21 Dec 2021 20:50:00 GMT</pubDate>
+         <title>香港天文台于2021年12月22日04时50分发出之天气报告</title>
+         <category>F</category>
+         <author>香港天文台</author>
+         <link>http://www.weather.gov.hk/wxinfo/currwx/fndc.htm</link>
+         <description><![CDATA[ 
+            
+    天 气 概 况 ：<br/>现 时 影 响 华 南 的 东 北 季 候 风 会 在 未 来 一 两 日 逐 渐 缓 和 。 预 料 一 股 强 烈 冬 季 季 候 风 会 在 圣 诞 日 抵 达 华 南 沿 岸 ， 随 后 该 区 会 显 著 转 冷 。 <p/><p/> 十 二 月 二 十 二 日 ( 星 期 三 ) <br/>
+    风    ：    
+    北 至 东 北 风 4 级 。  <br/>
+    天 气 ： 
+    短 暂 时 间 有 阳 光 。 早 上 清 凉 。  <br/>
+    气 温 ：
+    17 至 
+    21 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    70 至 
+    90 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 二 十 三 日 ( 星 期 四 ) <br/>
+    风    ：    
+    东 至 东 北 风 4 级 。  <br/>
+    天 气 ： 
+    大 致 多 云 。 晚 上 有 一 两 阵 雨 。  <br/>
+    气 温 ：
+    19 至 
+    22 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 二 十 四 日 ( 星 期 五 ) <br/>
+    风    ：    
+    东 北 风 3 至 4 级 。  <br/>
+    天 气 ： 
+    大 致 多 云 ， 有 几 阵 雨 。  <br/>
+    气 温 ：
+    19 至 
+    21 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    75 至 
+    95 。<br/>
+    显 著 降 雨 概 率 ： 中低 。<br/>
+    <p/><p/> 十 二 月 二 十 五 日 ( 星 期 六 ) <br/>
+    风    ：    
+    北 至 东 北 风 4 至 5 级 ， 稍 后 离 岸 间 中 6 级 。  <br/>
+    天 气 ： 
+    大 致 多 云 ， 初 时 天 色 明 朗 。 晚 上 天 气 清 凉 ， 有 一 两 阵 雨 。  <br/>
+    气 温 ：
+    17 至 
+    21 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    65 至 
+    90 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 二 十 六 日 ( 星 期 日 ) <br/>
+    风    ：    
+    北 至 东 北 风 4 至 5 级 ， 离 岸 间 中 6 级 。  <br/>
+    天 气 ： 
+    多 云 ， 有 几 阵 雨 。 天 气 显 著 转 冷 。  <br/>
+    气 温 ：
+    12 至 
+    17 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    65 至 
+    85 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 二 十 七 日 ( 星 期 一 ) <br/>
+    风    ：    
+    东 北 风 4 至 5 级 ， 初 时 离 岸 间 中 6 级 。  <br/>
+    天 气 ： 
+    大 致 多 云 ， 初 时 有 一 两 阵 雨 。 早 上 天 气 寒 冷 。  <br/>
+    气 温 ：
+    10 至 
+    14 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    65 至 
+    85 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 二 十 八 日 ( 星 期 二 ) <br/>
+    风    ：    
+    东 北 风 4 至 5 级 。  <br/>
+    天 气 ： 
+    早 上 天 气 寒 冷 ， 下 午 部 分 时 间 有 阳 光 。 日 间 干 燥 。  <br/>
+    气 温 ：
+    12 至 
+    16 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    60 至 
+    75 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 二 十 九 日 ( 星 期 三 ) <br/>
+    风    ：    
+    东 北 风 4 级 。  <br/>
+    天 气 ： 
+    大 致 天 晴 。 早 上 清 凉 。 日 间 干 燥 。  <br/>
+    气 温 ：
+    14 至 
+    19 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    60 至 
+    75 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/><p/> 十 二 月 三 十 日 ( 星 期 四 ) <br/>
+    风    ：    
+    东 北 风 4 级 。  <br/>
+    天 气 ： 
+    大 致 天 晴 。 早 上 清 凉 。  <br/>
+    气 温 ：
+    15 至 
+    20 度 。<br/>
+    相 对 湿 度 ：百 分 之 
+    65 至 
+    85 。<br/>
+    显 著 降 雨 概 率 ： 低 。<br/>
+    <p/>
+    十 二  月 二 十 一  日 
+    
+        下 午 二 时      北 角   
+    录 得 之 
+    海 水 
+      温 度 为 20 度 。<br/> 十 二  月 二 十 一  日 
+    
+        上 午 七 时      天 文 台   
+    录 得 之 
+    土 壤 
+      温 度 为 ：<br/>0.5 米 
+      22.7 度
+      ；<br/>1.0 米 
+      24.8 度
+      。 
+            ]]></description>
+   </item>
+</channel>
+</rss>

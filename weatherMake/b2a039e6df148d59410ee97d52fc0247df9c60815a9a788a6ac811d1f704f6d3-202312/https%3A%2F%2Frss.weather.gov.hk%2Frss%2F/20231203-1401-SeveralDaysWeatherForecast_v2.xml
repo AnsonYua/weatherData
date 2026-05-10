@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20231203113000</guid>
+      <pubDate>Sun, 03 Dec 2023 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 03/Dec/2023</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>The northeast monsoon will moderate gradually in the next couple of days. Daytime temperatures will rise slightly over the coast of Guangdong. Another surge of the northeast monsoon is expected to reach southern China on Wednesday. There will be one or two rain patches over the region. The dry continental airstream associated with the monsoon will bring mainly fine weather to Guangdong in the following couple of days. Under the influence of an easterly airstream, it will be cloudier with a few rain patches over the coast of Guangdong during the weekend.<p/><p/>
+        Date/Month:
+        04/12 (Monday)<br/>
+        Wind:               
+        East to northeast force 4, occasionally force 5 offshore at first.<br/>
+        Weather:        
+        Mainly cloudy. One or two light rain patches at first.<br/>
+        Temp range: 
+        20 -  
+        24 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        05/12 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 2 to 3.<br/>
+        Weather:        
+        Mainly cloudy. Dry with sunny periods during the day.<br/>
+        Temp range: 
+        20 -  
+        25 C<br/>
+        R.H. range:  
+        55 -  
+        80 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        06/12 (Wednesday)<br/>
+        Wind:               
+        Light winds force 2. Becoming north force 4, occasionally force 5 offshore.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        20 -  
+        24 C<br/>
+        R.H. range:  
+        60 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        07/12 (Thursday)<br/>
+        Wind:               
+        North to northeast force 4.<br/>
+        Weather:        
+        Fine and dry. Slightly cooler in the morning.<br/>
+        Temp range: 
+        19 -  
+        24 C<br/>
+        R.H. range:  
+        40 -  
+        70 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        08/12 (Friday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Sunny intervals.<br/>
+        Temp range: 
+        20 -  
+        23 C<br/>
+        R.H. range:  
+        65 -  
+        85 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        09/12 (Saturday)<br/>
+        Wind:               
+        East force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        21 -  
+        24 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        10/12 (Sunday)<br/>
+        Wind:               
+        East force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        22 -  
+        25 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        11/12 (Monday)<br/>
+        Wind:               
+        East force 3.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        23 -  
+        26 C<br/>
+        R.H. range:  
+        75 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        12/12 (Tuesday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with one or two rain patches.<br/>
+        Temp range: 
+        22 -  
+        25 C<br/>
+        R.H. range:  
+        70 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        7 A.M.            03/12/2023 
+        at North Point            was 23 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            03/12/2023 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 24.5 degrees C
+                <br/>1.0 M below surface was 26.1 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>

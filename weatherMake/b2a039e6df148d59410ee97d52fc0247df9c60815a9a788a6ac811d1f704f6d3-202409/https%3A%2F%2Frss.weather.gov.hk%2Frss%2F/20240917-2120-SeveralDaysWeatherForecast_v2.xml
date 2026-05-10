@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+      <webMaster>mailbox@hko.gov.hk (Hong Kong Observatory)</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website.</copyright>
+   <image>
+      <url>https://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>https://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20240917190500</guid>
+      <pubDate>Tue, 17 Sep 2024 11:05:00 GMT</pubDate>
+      <title>Bulletin updated at 19:05 HKT 17/Sep/2024</title>
+      <category>F</category>
+      <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+                        
+        General Situation:<br/>Under the influence of the northeast monsoon, it will be windy with one or two showers over the coast of southern
+China in the next couple of days. The northeast monsoon will moderate slightly during the weekend. Another surge of the northeast monsoon will reach southern China on Sunday. The weather will be slightly cooler over the region early to midweek next week. Meanwhile, a board trough of low pressure will bring showers to the northern part of the South China Sea and the coast of southern China. Besides, the Tropical Cyclone over the central part of the South China Sea will move in the general direction of the vicinity of Hainan Island and the central to northern parts of Vietnam today and tomorrow. Tropical Cyclone Pulasan will move in the general direction of the vicinity of the Ryukyu Islands in the next couple of days. Tropical Cyclone Bebinca will move inland over eastern China and dissipate gradually today.<p/><p/>
+        Date/Month:
+        18/09 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore and on high ground.<br/>
+        Weather:        
+        Cloudy periods with a few showers in the morning. Showers will be heavier over some areas with squally thunderstorms. Mainly fine and very hot during the day.<br/>
+        Temp range: 
+        27 -  
+        34 C<br/>
+        R.H. range:  
+        55 -  
+        90 per Cent<br/>
+        PSR: Low<p/><p/>
+        Date/Month:
+        19/09 (Thursday)<br/>
+        Wind:               
+        East to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.<br/>
+        Weather:        
+        Mainly cloudy with one or two showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        27 -  
+        32 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        20/09 (Friday)<br/>
+        Wind:               
+        East to northeast force 4 to 5.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and thunderstorms.<br/>
+        Temp range: 
+        27 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        Date/Month:
+        21/09 (Saturday)<br/>
+        Wind:               
+        Northeast force 3 to 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day. A few thunderstorms later.<br/>
+        Temp range: 
+        26 -  
+        31 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        22/09 (Sunday)<br/>
+        Wind:               
+        North to northeast force 4, force 5 offshore, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and a few thunderstorms.<br/>
+        Temp range: 
+        25 -  
+        29 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: High<p/><p/>
+        Date/Month:
+        23/09 (Monday)<br/>
+        Wind:               
+        North to northeast force 4, force 5 offshore, occasionally force 6 on high ground.<br/>
+        Weather:        
+        Mainly cloudy with occasional showers and a few thunderstorms.<br/>
+        Temp range: 
+        24 -  
+        28 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium High<p/><p/>
+        Date/Month:
+        24/09 (Tuesday)<br/>
+        Wind:               
+        Northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers and thunderstorms.<br/>
+        Temp range: 
+        25 -  
+        30 C<br/>
+        R.H. range:  
+        75 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        25/09 (Wednesday)<br/>
+        Wind:               
+        East to northeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers.<br/>
+        Temp range: 
+        26 -  
+        30 C<br/>
+        R.H. range:  
+        70 -  
+        95 per Cent<br/>
+        PSR: Medium<p/><p/>
+        Date/Month:
+        26/09 (Thursday)<br/>
+        Wind:               
+        East to southeast force 4.<br/>
+        Weather:        
+        Mainly cloudy with a few showers. Sunny intervals during the day.<br/>
+        Temp range: 
+        26 -  
+        31 C<br/>
+        R.H. range:  
+        65 -  
+        95 per Cent<br/>
+        PSR: Medium Low<p/><p/>
+        <p/>Sea surface 
+        temperature at  
+        2 P.M.            17/09/2024 
+        at North Point            was 29 degrees C.<br/>Soil 
+        temperatures at     
+        7 A.M.            17/09/2024 
+        at Hong Kong Observatory            :<br/>0.5 M below surface was 30.1 degrees C
+                <br/>1.0 M below surface was 30.4 degrees C
+                <br/>
+                        ]]></description>
+   </item>
+</channel>
+</rss>
