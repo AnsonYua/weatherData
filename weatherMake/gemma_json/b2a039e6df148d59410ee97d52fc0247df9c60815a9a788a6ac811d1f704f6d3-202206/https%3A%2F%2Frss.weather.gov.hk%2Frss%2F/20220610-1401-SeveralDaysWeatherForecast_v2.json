@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-06-10T11:30:00Z",
+  "records": [
+    {
+      "date_iso": "2022-06-11",
+      "weekday": "Saturday",
+      "wind": "South to southwest force 4, occasionally force 5",
+      "weather_text": "Cloudy. Heavy showers and squally thunderstorms at first. Showers will ease off later.",
+      "min_temperature_c": 26,
+      "max_temperature_c": 29,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-12",
+      "weekday": "Sunday",
+      "wind": "South to southwest force 4",
+      "weather_text": "Hot with sunny periods and a few showers.",
+      "min_temperature_c": 27,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-13",
+      "weekday": "Monday",
+      "wind": "Southwest force 4, occasionally force 5",
+      "weather_text": "Hot with sunny periods and a few showers.",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-14",
+      "weekday": "Tuesday",
+      "wind": "Southwest force 4, occasionally force 5",
+      "weather_text": "Cloudy with a few showers and thunderstorms. Showers will be more frequent later.",
+      "min_temperature_c": 26,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-15",
+      "weekday": "Wednesday",
+      "wind": "Southwest force 4",
+      "weather_text": "Cloudy with showers and squally thunderstorms. Showers will be heavy at times.",
+      "min_temperature_c": 26,
+      "max_temperature_c": 29,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-16",
+      "weekday": "Thursday",
+      "wind": "Southwest force 4",
+      "weather_text": "Cloudy with showers and thunderstorms.",
+      "min_temperature_c": 26,
+      "max_temperature_c": 29,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-17",
+      "weekday": "Friday",
+      "wind": "South to southwest force 4",
+      "weather_text": "Mainly cloudy with a few showers.",
+      "min_temperature_c": 27,
+      "max_temperature_c": 30,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-18",
+      "weekday": "Saturday",
+      "wind": "South to southwest force 4",
+      "weather_text": "Sunny intervals and a few showers.",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-06-19",
+      "weekday": "Sunday",
+      "wind": "South force 4",
+      "weather_text": "Sunny periods and one or two showers.",
+      "min_temperature_c": 27,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202206\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220610-1401-SeveralDaysWeatherForecast_v2.xml"
+}

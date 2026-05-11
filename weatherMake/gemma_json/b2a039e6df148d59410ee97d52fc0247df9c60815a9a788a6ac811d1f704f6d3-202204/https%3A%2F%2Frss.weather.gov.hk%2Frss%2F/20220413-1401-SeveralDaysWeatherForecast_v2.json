@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-04-13T03:30:00Z",
+  "records": [
+    {
+      "date_iso": "2022-04-14",
+      "weekday": "Thursday",
+      "wind": "North to northeast",
+      "weather_text": "Mainly fine. Hot and dry during the day.",
+      "min_temperature_c": 23,
+      "max_temperature_c": 30,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-15",
+      "weekday": "Friday",
+      "wind": "East to northeast",
+      "weather_text": "Mainly fine. Hot and dry during the day.",
+      "min_temperature_c": 22,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-16",
+      "weekday": "Saturday",
+      "wind": "East to northeast",
+      "weather_text": "Sunny intervals and one or two rain patches.",
+      "min_temperature_c": 21,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-17",
+      "weekday": "Sunday",
+      "wind": "East to northeast",
+      "weather_text": "Sunny intervals and one or two rain patches.",
+      "min_temperature_c": 20,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-18",
+      "weekday": "Monday",
+      "wind": "Northeast",
+      "weather_text": "Sunny intervals.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-19",
+      "weekday": "Tuesday",
+      "wind": "Northeast",
+      "weather_text": "Sunny periods. One or two showers later.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-20",
+      "weekday": "Wednesday",
+      "wind": "East",
+      "weather_text": "Sunny intervals and one or two showers.",
+      "min_temperature_c": 20,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-21",
+      "weekday": "Thursday",
+      "wind": "East",
+      "weather_text": "Sunny intervals and one or two showers.",
+      "min_temperature_c": 21,
+      "max_temperature_c": 27,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-22",
+      "weekday": "Friday",
+      "wind": "East to southeast",
+      "weather_text": "Sunny intervals.",
+      "min_temperature_c": 22,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202204\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220413-1401-SeveralDaysWeatherForecast_v2.xml"
+}

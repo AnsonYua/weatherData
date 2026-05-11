@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2021-12-30T11:30:00Z",
+  "records": [
+    {
+      "date_iso": "2021-12-31",
+      "weekday": "Friday",
+      "wind": "East to northeast force 4 to 5, occasionally force 6 offshore later.",
+      "weather_text": "Mainly fine. Dry during the day.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-01-01",
+      "weekday": "Saturday",
+      "wind": "East to northeast force 4 to 5, occasionally force 6 offshore at first.",
+      "weather_text": "Cloudy periods in the morning. Fine and dry during the day.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-01-02",
+      "weekday": "Sunday",
+      "wind": "East to northeast force 4, occasionally force 5 offshore later.",
+      "weather_text": "Fine and dry. Cool in the morning.",
+      "min_temperature_c": 16,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-01-03",
+      "weekday": "Monday",
+      "wind": "East force 4 to 5.",
+      "weather_text": "Mainly fine.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-01-04",
+      "weekday": "Tuesday",
+      "wind": "East force 4.",
+      "weather_text": "Sunny periods.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-01-05",
+      "weekday": "Wednesday",
+      "wind": "East force 3.",
+      "weather_text": "Sunny intervals and one or two rain patches.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-01-06",
+      "weekday": "Thursday",
+      "wind": "Northeast force 4.",
+      "weather_text": "Mainly cloudy with one or two rain patches. Sunny intervals during the day.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-01-07",
+      "weekday": "Friday",
+      "wind": "Northeast force 4.",
+      "weather_text": "Sunny intervals and one or two rain patches.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-01-08",
+      "weekday": "Saturday",
+      "wind": "Northeast force 4.",
+      "weather_text": "Sunny intervals.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202112\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20211230-1401-SeveralDaysWeatherForecast_v2.xml"
+}

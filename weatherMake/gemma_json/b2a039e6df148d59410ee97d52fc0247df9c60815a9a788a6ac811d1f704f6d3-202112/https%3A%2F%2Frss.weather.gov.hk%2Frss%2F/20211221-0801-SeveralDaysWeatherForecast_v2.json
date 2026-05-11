@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2021-12-20T23:50:00Z",
+  "records": [
+    {
+      "date_iso": "2021-12-21",
+      "weekday": "Tuesday",
+      "wind": "North to northeast force 5, force 6 to 7 offshore and on high ground at first.",
+      "weather_text": "Cloudy and cool with a few rain patches. There will be swells.",
+      "min_temperature_c": 16,
+      "max_temperature_c": 19,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-12-22",
+      "weekday": "Wednesday",
+      "wind": "North to northeast force 4.",
+      "weather_text": "Mainly cloudy. One or two rain patches in the morning and at night. Cool in the morning.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-12-23",
+      "weekday": "Thursday",
+      "wind": "Northeast force 4.",
+      "weather_text": "Mainly cloudy. One or two rain patches in the morning and at night.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-12-24",
+      "weekday": "Friday",
+      "wind": "Northeast force 3 to 4.",
+      "weather_text": "Mainly cloudy with a few rain patches.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-12-25",
+      "weekday": "Saturday",
+      "wind": "North to northeast force 4 to 5, occasionally force 6 offshore later.",
+      "weather_text": "Mainly cloudy. Cool at night.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Cloudy"
+    },
+    {
+      "date_iso": "2021-12-26",
+      "weekday": "Sunday",
+      "wind": "North to northeast force 4 to 5, occasionally force 6 offshore.",
+      "weather_text": "Sunny intervals. Becoming appreciably cooler.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2021-12-27",
+      "weekday": "Monday",
+      "wind": "Northeast force 4 to 5, occasionally force 6 offshore at first.",
+      "weather_text": "Sunny periods. Cold in the morning. Dry during the day.",
+      "min_temperature_c": 12,
+      "max_temperature_c": 16,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-28",
+      "weekday": "Tuesday",
+      "wind": "Northeast force 4 to 5.",
+      "weather_text": "Mainly fine. It will be cool. Dry during the day.",
+      "min_temperature_c": 13,
+      "max_temperature_c": 18,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-29",
+      "weekday": "Wednesday",
+      "wind": "Northeast force 4.",
+      "weather_text": "Mainly fine. Cool in the morning. Dry during the day.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 19,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202112\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20211221-0801-SeveralDaysWeatherForecast_v2.xml"
+}

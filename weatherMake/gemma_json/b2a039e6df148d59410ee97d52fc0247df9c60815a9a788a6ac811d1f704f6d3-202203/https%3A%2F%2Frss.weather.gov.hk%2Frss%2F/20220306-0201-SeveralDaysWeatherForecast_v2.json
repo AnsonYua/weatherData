@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-03-06T00:00:00Z",
+  "records": [
+    {
+      "date_iso": "2022-03-06",
+      "weekday": "Sunday",
+      "wind": "East force 5 to 6, later force 4",
+      "weather_text": "Mainly cloudy with rain patches and coastal fog",
+      "min_temperature_c": 18,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-07",
+      "weekday": "Monday",
+      "wind": "North to northeast force 4 to 5",
+      "weather_text": "Mainly cloudy with rain patches, becoming fine",
+      "min_temperature_c": 17,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-08",
+      "weekday": "Tuesday",
+      "wind": "East to northeast force 4 to 5",
+      "weather_text": "Fine and dry",
+      "min_temperature_c": 15,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-03-09",
+      "weekday": "Wednesday",
+      "wind": "East force 4 to 5",
+      "weather_text": "Fine and dry",
+      "min_temperature_c": 16,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-03-10",
+      "weekday": "Thursday",
+      "wind": "East force 3 to 4",
+      "weather_text": "Mainly fine and dry",
+      "min_temperature_c": 17,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-03-11",
+      "weekday": "Friday",
+      "wind": "East force 3 to 4",
+      "weather_text": "Sunny periods",
+      "min_temperature_c": 18,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-03-12",
+      "weekday": "Saturday",
+      "wind": "East force 3 to 4",
+      "weather_text": "Sunny periods with mist",
+      "min_temperature_c": 18,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-13",
+      "weekday": "Sunday",
+      "wind": "Light winds force 2",
+      "weather_text": "Sunny periods with mist",
+      "min_temperature_c": 19,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-14",
+      "weekday": "Monday",
+      "wind": "East force 3",
+      "weather_text": "Mainly fine",
+      "min_temperature_c": 19,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202203\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220306-0201-SeveralDaysWeatherForecast_v2.xml"
+}

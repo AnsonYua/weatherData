@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-01-24T23:45:00Z",
+  "records": [
+    {
+      "date_iso": "2022-01-25",
+      "weekday": "Tuesday",
+      "wind": "East to northeast force 4 to 5",
+      "weather_text": "Cool in the morning. Sunny periods during the day.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-01-26",
+      "weekday": "Wednesday",
+      "wind": "East force 4 to 5, occasionally force 6 offshore and on high ground.",
+      "weather_text": "Mainly cloudy. One or two rain patches.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-27",
+      "weekday": "Thursday",
+      "wind": "East force 4, occasionally force 5 at first.",
+      "weather_text": "Mainly cloudy with one or two rain patches.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-28",
+      "weekday": "Friday",
+      "wind": "East to northeast force 4.",
+      "weather_text": "Mainly cloudy with one or two rain patches. Bright periods during the day. Relatively low visibility later.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-29",
+      "weekday": "Saturday",
+      "wind": "North to northeast force 4.",
+      "weather_text": "Relatively low visibility with one or two rain patches at first. Sunny intervals during the day. Temperatures falling appreciably at night.",
+      "min_temperature_c": 16,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-30",
+      "weekday": "Sunday",
+      "wind": "North to northeast force 4 to 5.",
+      "weather_text": "Sunny periods. Rather cool in the morning.",
+      "min_temperature_c": 13,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-01-31",
+      "weekday": "Monday",
+      "wind": "East to northeast force 4 to 5.",
+      "weather_text": "Cloudy. Rather cool in the morning.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Cloudy"
+    },
+    {
+      "date_iso": "2022-02-01",
+      "weekday": "Tuesday",
+      "wind": "East to northeast force 4 to 5, occasionally force 6 offshore.",
+      "weather_text": "Mainly cloudy with a few rain patches. Rather cool in the morning.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-02",
+      "weekday": "Wednesday",
+      "wind": "Northeast force 4 to 5",
+      "weather_text": "Mainly cloudy with a few rain patches. Rather cool in the morning.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202201\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220125-0801-SeveralDaysWeatherForecast_v2.xml"
+}

@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-04-03T11:30:00Z",
+  "records": [
+    {
+      "date_iso": "2022-04-04",
+      "weekday": "Monday",
+      "wind": "East to northeast force 4 to 5, occasionally force 6 offshore",
+      "weather_text": "Fine and dry",
+      "min_temperature_c": 16,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 45,
+      "humidity_max_percent": 70,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-05",
+      "weekday": "Tuesday",
+      "wind": "East to northeast force 3 to 4, force 5 at first",
+      "weather_text": "Fine and dry",
+      "min_temperature_c": 17,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-06",
+      "weekday": "Wednesday",
+      "wind": "East to northeast force 3 to 4",
+      "weather_text": "Mainly fine, dry during the day",
+      "min_temperature_c": 19,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-07",
+      "weekday": "Thursday",
+      "wind": "East to northeast force 3",
+      "weather_text": "Mainly fine, hot and dry during the day",
+      "min_temperature_c": 20,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-08",
+      "weekday": "Friday",
+      "wind": "East force 3 to 4, force 5 offshore later",
+      "weather_text": "Fine, hot and dry during the day",
+      "min_temperature_c": 21,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-09",
+      "weekday": "Saturday",
+      "wind": "East force 3 to 4, force 5 offshore at first",
+      "weather_text": "Fine, hot and dry during the day",
+      "min_temperature_c": 21,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-10",
+      "weekday": "Sunday",
+      "wind": "East force 3 to 4",
+      "weather_text": "Mainly fine, dry during the day",
+      "min_temperature_c": 21,
+      "max_temperature_c": 27,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-11",
+      "weekday": "Monday",
+      "wind": "East force 3 to 4",
+      "weather_text": "Sunny periods, dry during the day",
+      "min_temperature_c": 22,
+      "max_temperature_c": 27,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-04-12",
+      "weekday": "Tuesday",
+      "wind": "East force 3 to 4",
+      "weather_text": "Sunny periods, dry during the day",
+      "min_temperature_c": 22,
+      "max_temperature_c": 27,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202204\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220403-1401-SeveralDaysWeatherForecast_v2.xml"
+}

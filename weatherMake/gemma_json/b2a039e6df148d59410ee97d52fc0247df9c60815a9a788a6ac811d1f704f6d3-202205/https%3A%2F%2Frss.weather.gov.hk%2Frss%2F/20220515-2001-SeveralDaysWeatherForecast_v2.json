@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-05-15T16:30:00Z",
+  "records": [
+    {
+      "date_iso": "2022-05-16",
+      "weekday": "Monday",
+      "wind": "North to northeast force 4 to 5, occasionally force 6 offshore",
+      "weather_text": "Mainly cloudy with a few showers",
+      "min_temperature_c": 19,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-05-17",
+      "weekday": "Tuesday",
+      "wind": "East to northeast force 4 to 5",
+      "weather_text": "Sunny periods",
+      "min_temperature_c": 20,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-05-18",
+      "weekday": "Wednesday",
+      "wind": "East force 4 to 5",
+      "weather_text": "Sunny periods",
+      "min_temperature_c": 22,
+      "max_temperature_c": 27,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-05-19",
+      "weekday": "Thursday",
+      "wind": "East force 3 to 4, occasionally force 5",
+      "weather_text": "Sunny intervals and one or two showers",
+      "min_temperature_c": 23,
+      "max_temperature_c": 27,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-05-20",
+      "weekday": "Friday",
+      "wind": "East to southeast force 2 to 3",
+      "weather_text": "Sunny intervals and one or two showers",
+      "min_temperature_c": 24,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-05-21",
+      "weekday": "Saturday",
+      "wind": "Light winds force 2",
+      "weather_text": "Sunny intervals and a few showers. Isolated thunderstorms later.",
+      "min_temperature_c": 25,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-05-22",
+      "weekday": "Sunday",
+      "wind": "Northeast force 2 to 3",
+      "weather_text": "Cloudy with a few showers and isolated thunderstorms",
+      "min_temperature_c": 24,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-05-23",
+      "weekday": "Monday",
+      "wind": "East to northeast force 3 to 4, occasionally force 5 offshore",
+      "weather_text": "Mainly cloudy. A few showers at first.",
+      "min_temperature_c": 24,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-05-24",
+      "weekday": "Tuesday",
+      "wind": "East force 4 to 5",
+      "weather_text": "Sunny periods",
+      "min_temperature_c": 24,
+      "max_temperature_c": 28,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202205\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220515-2001-SeveralDaysWeatherForecast_v2.xml"
+}

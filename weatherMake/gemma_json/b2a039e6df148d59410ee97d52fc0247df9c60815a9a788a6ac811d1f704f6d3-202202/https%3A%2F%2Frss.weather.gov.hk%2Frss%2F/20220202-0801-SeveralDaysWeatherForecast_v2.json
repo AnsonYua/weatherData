@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-02-01T23:50:00Z",
+  "records": [
+    {
+      "date_iso": "2022-02-02",
+      "weekday": "Wednesday",
+      "wind": "East to northeast force 4 to 5, occasionally force 6 offshore and on high ground at first.",
+      "weather_text": "Cloudy with a few rain and mist patches.",
+      "min_temperature_c": 13,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-03",
+      "weekday": "Thursday",
+      "wind": "North force 4 to 5.",
+      "weather_text": "Cloudy with a few rain patches. Temperatures falling. Rather cool at night.",
+      "min_temperature_c": 13,
+      "max_temperature_c": 16,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Rain"
+    },
+    {
+      "date_iso": "2022-02-04",
+      "weekday": "Friday",
+      "wind": "North force 4 to 5.",
+      "weather_text": "Mainly cloudy. Sunny periods during the day. Cold in the morning.",
+      "min_temperature_c": 12,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-05",
+      "weekday": "Saturday",
+      "wind": "Northeast force 4 to 5, occasionally force 6 offshore later.",
+      "weather_text": "Sunny periods. Cold in the morning.",
+      "min_temperature_c": 12,
+      "max_temperature_c": 18,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-02-06",
+      "weekday": "Sunday",
+      "wind": "East to northeast force 4 to 5, occasionally force 6 offshore and on high ground.",
+      "weather_text": "Mainly cloudy. Bright periods during the day. Cool in the morning.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 18,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-07",
+      "weekday": "Monday",
+      "wind": "East force 4 to 5, occasionally force 6 offshore at first.",
+      "weather_text": "Mainly cloudy with a few rain patches.",
+      "min_temperature_c": 16,
+      "max_temperature_c": 18,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-08",
+      "weekday": "Tuesday",
+      "wind": "North force 4 to 5.",
+      "weather_text": "One or two rain patches at first. Bright periods during the day. Cool in the morning.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-09",
+      "weekday": "Wednesday",
+      "wind": "Northeast force 4 to 5.",
+      "weather_text": "Sunny intervals. Rather cool in the morning.",
+      "min_temperature_c": 13,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-02-10",
+      "weekday": "Thursday",
+      "wind": "East to northeast force 4 to 5.",
+      "weather_text": "Sunny intervals. Rather cool in the morning.",
+      "min_temperature_c": 13,
+      "max_temperature_c": 17,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202202\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220202-0801-SeveralDaysWeatherForecast_v2.xml"
+}

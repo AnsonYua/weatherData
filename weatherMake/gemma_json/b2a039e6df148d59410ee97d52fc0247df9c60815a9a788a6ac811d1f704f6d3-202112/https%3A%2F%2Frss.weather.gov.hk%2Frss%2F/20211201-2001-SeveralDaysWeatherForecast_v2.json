@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2021-12-01T16:30:00Z",
+  "records": [
+    {
+      "date_iso": "2021-12-02",
+      "weekday": "Thursday",
+      "wind": "North 4-5, 6 offshore",
+      "weather_text": "Fine. Rather cool in the morning. Very dry during the day.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 35,
+      "humidity_max_percent": 55,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-03",
+      "weekday": "Friday",
+      "wind": "North to northeast 3-4",
+      "weather_text": "Fine. Rather cool in the morning. Very dry during the day.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 35,
+      "humidity_max_percent": 55,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-04",
+      "weekday": "Saturday",
+      "wind": "East to northeast 4-5",
+      "weather_text": "Fine and dry. Cool in the morning.",
+      "min_temperature_c": 16,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 45,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-05",
+      "weekday": "Sunday",
+      "wind": "East to northeast 4-5, occasionally 6 offshore",
+      "weather_text": "Mainly fine and dry. Cool in the morning.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 22,
+      "humidity_min_percent": 45,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-06",
+      "weekday": "Monday",
+      "wind": "North to northeast 3-4",
+      "weather_text": "Fine and dry. Cool in the morning.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 40,
+      "humidity_max_percent": 70,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-07",
+      "weekday": "Tuesday",
+      "wind": "Northeast 4",
+      "weather_text": "Mainly fine and dry. Cool in the morning.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 40,
+      "humidity_max_percent": 70,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-08",
+      "weekday": "Wednesday",
+      "wind": "East to northeast 4-5, occasionally 6 offshore",
+      "weather_text": "Mainly fine. Cool in the morning. Dry during the day.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 45,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-09",
+      "weekday": "Thursday",
+      "wind": "East to northeast 4-5",
+      "weather_text": "Mainly fine. Dry during the day.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 45,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2021-12-10",
+      "weekday": "Friday",
+      "wind": "East 4-5",
+      "weather_text": "Mainly fine. Dry during the day.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202112\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20211201-2001-SeveralDaysWeatherForecast_v2.xml"
+}

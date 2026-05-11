@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-03-24T16:40:00Z",
+  "records": [
+    {
+      "date_iso": "2022-03-25",
+      "weekday": "Friday",
+      "wind": "East force 4 to 5, becoming south force 4",
+      "weather_text": "Cloudy with occasional showers. Misty in the morning and at night. Isolated thunderstorms at first. Showers will ease off gradually later.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-26",
+      "weekday": "Saturday",
+      "wind": "South to southwest force 3 to 4",
+      "weather_text": "Mainly cloudy. Coastal fog at first. A few showers and isolated thunderstorms later.",
+      "min_temperature_c": 21,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-27",
+      "weekday": "Sunday",
+      "wind": "North to northeast force 4 to 5",
+      "weather_text": "Mainly cloudy with occasional showers. Isolated thunderstorms at first.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-28",
+      "weekday": "Monday",
+      "wind": "East to northeast force 4 to 5, force 6 offshore later",
+      "weather_text": "Cloudy with occasional showers and thunderstorms. Cool in the morning.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-29",
+      "weekday": "Tuesday",
+      "wind": "East force 4 to 5, occasionally force 6 offshore",
+      "weather_text": "Mainly cloudy with occasional showers. Cool in the morning.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-30",
+      "weekday": "Wednesday",
+      "wind": "East force 4",
+      "weather_text": "Sunny intervals and one or two showers.",
+      "min_temperature_c": 19,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-03-31",
+      "weekday": "Thursday",
+      "wind": "East force 4 to 5, occasionally force 6 offshore",
+      "weather_text": "Sunny intervals and one or two showers.",
+      "min_temperature_c": 20,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-01",
+      "weekday": "Friday",
+      "wind": "Northeast force 4 to 5",
+      "weather_text": "Sunny periods and one or two showers.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-04-02",
+      "weekday": "Saturday",
+      "wind": "Northeast force 4 to 5",
+      "weather_text": "Sunny periods.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202203\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220325-0201-SeveralDaysWeatherForecast_v2.xml"
+}

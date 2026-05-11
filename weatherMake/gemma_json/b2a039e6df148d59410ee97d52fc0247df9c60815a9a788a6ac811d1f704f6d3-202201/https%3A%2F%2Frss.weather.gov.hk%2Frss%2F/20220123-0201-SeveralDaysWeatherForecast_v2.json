@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-01-22T16:00:00Z",
+  "records": [
+    {
+      "date_iso": "2022-01-23",
+      "weekday": "Sunday",
+      "wind": "East force 3 to 4, light winds force 2 later.",
+      "weather_text": "Mainly cloudy with a few rain patches. Visibility relatively low later.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-24",
+      "weekday": "Monday",
+      "wind": "Light winds force 2, becoming east to northeast force 4.",
+      "weather_text": "Cloudy with a few rain patches. Visibility relatively low at first.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-25",
+      "weekday": "Tuesday",
+      "wind": "East to northeast force 4 to 5.",
+      "weather_text": "Mainly cloudy. One or two rain patches at first. Bright periods during the day.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-26",
+      "weekday": "Wednesday",
+      "wind": "East force 4 to 5.",
+      "weather_text": "Mainly cloudy. Bright periods during the day.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-27",
+      "weekday": "Thursday",
+      "wind": "East force 4.",
+      "weather_text": "Mainly cloudy. Sunny intervals during the day.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-28",
+      "weekday": "Friday",
+      "wind": "East force 4.",
+      "weather_text": "Mainly cloudy with a few rain patches.",
+      "min_temperature_c": 18,
+      "max_temperature_c": 21,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-29",
+      "weekday": "Saturday",
+      "wind": "North to northeast force 4.",
+      "weather_text": "Mainly cloudy with a few rain patches.",
+      "min_temperature_c": 17,
+      "max_temperature_c": 20,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-01-30",
+      "weekday": "Sunday",
+      "wind": "North force 4 to 5.",
+      "weather_text": "Sunny periods. Temperatures falling appreciably.",
+      "min_temperature_c": 14,
+      "max_temperature_c": 18,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-01-31",
+      "weekday": "Monday",
+      "wind": "Northeast force 4 to 5.",
+      "weather_text": "Sunny intervals. Cool in the morning.",
+      "min_temperature_c": 15,
+      "max_temperature_c": 18,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "C:\\Users\\anson\\Desktop\\weatherData\\weatherMake\\b2a039e6df148d59410ee97d52fc0247df9c60815a9a788a6ac811d1f704f6d3-202201\\https%3A%2F%2Frss.weather.gov.hk%2Frss%2F\\20220123-0201-SeveralDaysWeatherForecast_v2.xml"
+}
