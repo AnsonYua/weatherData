@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2023-09-23T16:00:00Z",
+  "records": [
+    {
+      "date_iso": "2023-09-24",
+      "weekday": "Sunday",
+      "wind": "東至東北風 4 級，間中 5 級。",
+      "weather_text": "短暫時間有陽光，有幾陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-09-25",
+      "weekday": "Monday",
+      "wind": "東至東北風 4 級，間中 5 級。",
+      "weather_text": "部分時間有陽光，局部地區有一兩陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-09-26",
+      "weekday": "Tuesday",
+      "wind": "東至東北風 4 至 5 級。",
+      "weather_text": "部分時間有陽光，局部地區有一兩陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-09-27",
+      "weekday": "Wednesday",
+      "wind": "東至東北風 4 級。",
+      "weather_text": "短暫時間有陽光，有幾陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-09-28",
+      "weekday": "Thursday",
+      "wind": "東至東北風 4 級，間中 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-09-29",
+      "weekday": "Friday",
+      "wind": "東北風 4 至 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-09-30",
+      "weekday": "Saturday",
+      "wind": "東北風 4 至 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "min_temperature_c": 26,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-10-01",
+      "weekday": "Sunday",
+      "wind": "東北風 4 至 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "min_temperature_c": 26,
+      "max_temperature_c": 30,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2023-10-02",
+      "weekday": "Monday",
+      "wind": "東至東北風 4 至 5 級，離岸間中 6 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。",
+      "min_temperature_c": 26,
+      "max_temperature_c": 30,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "/Users/hello/Desktop/weatherBot/weatherData/weatherMake/dfed053c76c0d344d51105fecdbb57251d66e53c5c0d7dc1ba5bae9c7dba6571-202309/https%3A%2F%2Frss.weather.gov.hk%2Frss%2F/20230924-0202-SeveralDaysWeatherForecast_v2_uc.xml"
+}

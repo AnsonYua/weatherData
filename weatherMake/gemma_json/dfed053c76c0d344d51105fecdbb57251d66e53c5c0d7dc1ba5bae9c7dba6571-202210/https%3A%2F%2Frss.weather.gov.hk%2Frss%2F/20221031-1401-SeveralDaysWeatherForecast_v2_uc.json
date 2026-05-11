@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-10-31T05:00:00Z",
+  "records": [
+    {
+      "date_iso": "2022-11-01",
+      "weekday": "Tuesday",
+      "wind": "北風 5 至 6 級，離岸 7 級，高地達 8 級。",
+      "weather_text": "大致多雲，海有湧浪，有幾陣驟雨，晚上雨勢較為頻密。",
+      "min_temperature_c": 19,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-02",
+      "weekday": "Wednesday",
+      "wind": "北至東北風 6 至 7 級，高地達 8 級。",
+      "weather_text": "密雲，間中有狂風驟雨。海有湧浪。",
+      "min_temperature_c": 19,
+      "max_temperature_c": 23,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-03",
+      "weekday": "Thursday",
+      "wind": "東至東北風 5 至 6 級，初時離岸 7 級，高地達 8 級。",
+      "weather_text": "大致多雲，間中有雨。海有湧浪。",
+      "min_temperature_c": 21,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 80,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-04",
+      "weekday": "Friday",
+      "wind": "東風 4 至 5 級，離岸間中 6 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。",
+      "min_temperature_c": 22,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-05",
+      "weekday": "Saturday",
+      "wind": "東北風 4 至 5 級，離岸間中 6 級。",
+      "weather_text": "大致多雲，有一兩陣驟雨。",
+      "min_temperature_c": 21,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-06",
+      "weekday": "Sunday",
+      "wind": "東北風 4 至 5 級。",
+      "weather_text": "短暫時間有陽光，有一兩陣驟雨。",
+      "min_temperature_c": 21,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-07",
+      "weekday": "Monday",
+      "wind": "東至東北風 4 至 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨。",
+      "min_temperature_c": 21,
+      "max_temperature_c": 24,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-08",
+      "weekday": "Tuesday",
+      "wind": "東至東北風 4 至 5 級。",
+      "weather_text": "大致多雲，有一兩陣驟雨，日間短暫時間有陽光。",
+      "min_temperature_c": 21,
+      "max_temperature_c": 25,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-11-09",
+      "weekday": "Wednesday",
+      "wind": "東至東北風 4 至 5 級。",
+      "weather_text": "部份時間有陽光。",
+      "min_temperature_c": 22,
+      "max_temperature_c": 26,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    }
+  ],
+  "input_file": "/Users/hello/Desktop/weatherBot/weatherData/weatherMake/dfed053c76c0d344d51105fecdbb57251d66e53c5c0d7dc1ba5bae9c7dba6571-202210/https%3A%2F%2Frss.weather.gov.hk%2Frss%2F/20221031-1401-SeveralDaysWeatherForecast_v2_uc.xml"
+}
