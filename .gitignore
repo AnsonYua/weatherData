@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+weatherMake/gemma_json/
+*.error.txt
+runner.stdout.log
+runner.stderr.log
+process.log
