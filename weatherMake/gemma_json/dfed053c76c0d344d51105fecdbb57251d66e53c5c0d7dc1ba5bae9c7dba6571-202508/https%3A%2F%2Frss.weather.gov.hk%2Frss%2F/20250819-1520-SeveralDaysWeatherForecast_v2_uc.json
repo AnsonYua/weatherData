@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2025-08-19T03:30:00Z",
+  "records": [
+    {
+      "date_iso": "2025-08-20",
+      "weekday": "Wednesday",
+      "wind": "南風 3 級。",
+      "weather_text": "短暫時間有陽光，有幾陣驟雨。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-21",
+      "weekday": "Thursday",
+      "wind": "南風 2 至 3 級。",
+      "weather_text": "部分時間有陽光，有一兩陣驟雨。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-22",
+      "weekday": "Friday",
+      "wind": "微風 2 級。",
+      "weather_text": "大致天晴，但局部地區有驟雨。日間酷熱。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 33,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-23",
+      "weekday": "Saturday",
+      "wind": "東至東北風 3 至 4 級，稍後 5 級。",
+      "weather_text": "部分時間有陽光，有幾陣驟雨。日間酷熱。稍後有幾陣狂風雷暴。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 33,
+      "humidity_min_percent": 65,
+      "humidity_max_percent": 90,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-24",
+      "weekday": "Sunday",
+      "wind": "東風 4 至 5 級，離岸及高地間中 6 級。",
+      "weather_text": "大致多雲，有幾陣驟雨及狂風雷暴。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 70,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-25",
+      "weekday": "Monday",
+      "wind": "東至東南風 4 至 5 級，離岸及高地間中 6 級。",
+      "weather_text": "大致多雲，間中有驟雨及幾陣狂風雷暴。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-26",
+      "weekday": "Tuesday",
+      "wind": "東至東南風 4 至 5 級，初時離岸及高地間中 6 級。",
+      "weather_text": "大致多雲，間中有驟雨及幾陣狂風雷暴。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-27",
+      "weekday": "Wednesday",
+      "wind": "東南風 4 至 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨及雷暴。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium High",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2025-08-28",
+      "weekday": "Thursday",
+      "wind": "東南風 4 至 5 級。",
+      "weather_text": "大致多雲，有幾陣驟雨及雷暴。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 31,
+      "humidity_min_percent": 75,
+      "humidity_max_percent": 95,
+      "rain_probability": "Medium",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "/Users/hello/Desktop/weatherBot/weatherData/weatherMake/dfed053c76c0d344d51105fecdbb57251d66e53c5c0d7dc1ba5bae9c7dba6571-202508/https%3A%2F%2Frss.weather.gov.hk%2Frss%2F/20250819-1520-SeveralDaysWeatherForecast_v2_uc.xml"
+}
