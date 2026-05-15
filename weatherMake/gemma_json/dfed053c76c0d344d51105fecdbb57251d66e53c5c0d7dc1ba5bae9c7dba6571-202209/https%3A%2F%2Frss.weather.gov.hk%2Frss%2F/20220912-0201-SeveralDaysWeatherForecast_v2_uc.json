@@ -1,0 +1,115 @@
+{
+  "source": "hko_nine_day_forecast",
+  "report_datetime": "2022-09-11T16:00:00Z",
+  "records": [
+    {
+      "date_iso": "2022-09-12",
+      "weekday": "Monday",
+      "wind": "北風 2 至 3 級。",
+      "weather_text": "大致天晴。日間酷熱及乾燥，局部地區有煙霞。",
+      "min_temperature_c": 27,
+      "max_temperature_c": 34,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-09-13",
+      "weekday": "Tuesday",
+      "wind": "北至西北風 2 至 3 級。",
+      "weather_text": "天晴乾燥。日間酷熱。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 35,
+      "humidity_min_percent": 45,
+      "humidity_max_percent": 70,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-09-14",
+      "weekday": "Wednesday",
+      "wind": "北至西北風 2 至 3 級。",
+      "weather_text": "天晴乾燥。日間酷熱。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 35,
+      "humidity_min_percent": 40,
+      "humidity_max_percent": 70,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-09-15",
+      "weekday": "Thursday",
+      "wind": "北至西北風 2 至 3 級。",
+      "weather_text": "天晴乾燥。日間酷熱。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 35,
+      "humidity_min_percent": 40,
+      "humidity_max_percent": 70,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-09-16",
+      "weekday": "Friday",
+      "wind": "微風 2 級。",
+      "weather_text": "天晴乾燥。日間酷熱。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 34,
+      "humidity_min_percent": 50,
+      "humidity_max_percent": 75,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-09-17",
+      "weekday": "Saturday",
+      "wind": "微風 2 級。",
+      "weather_text": "大致天晴及乾燥。日間酷熱。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 33,
+      "humidity_min_percent": 55,
+      "humidity_max_percent": 80,
+      "rain_probability": "Low",
+      "weather_type": "Sunny"
+    },
+    {
+      "date_iso": "2022-09-18",
+      "weekday": "Sunday",
+      "wind": "微風 2 級。",
+      "weather_text": "部分時間有陽光，亦有一兩陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-09-19",
+      "weekday": "Monday",
+      "wind": "東風 2 至 3 級。",
+      "weather_text": "部分時間有陽光，亦有一兩陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    },
+    {
+      "date_iso": "2022-09-20",
+      "weekday": "Tuesday",
+      "wind": "東風 2 至 3 級。",
+      "weather_text": "部分時間有陽光，亦有一兩陣驟雨。",
+      "min_temperature_c": 28,
+      "max_temperature_c": 32,
+      "humidity_min_percent": 60,
+      "humidity_max_percent": 85,
+      "rain_probability": "Low",
+      "weather_type": "Mixed"
+    }
+  ],
+  "input_file": "/Users/hello/Desktop/weatherBot/weatherData/weatherMake/dfed053c76c0d344d51105fecdbb57251d66e53c5c0d7dc1ba5bae9c7dba6571-202209/https%3A%2F%2Frss.weather.gov.hk%2Frss%2F/20220912-0201-SeveralDaysWeatherForecast_v2_uc.xml"
+}
